@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\HelloWorldApp\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll

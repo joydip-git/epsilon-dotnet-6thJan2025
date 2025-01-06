@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\bin\Debug\net8.0\DataTypesApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\refint\DataTypesApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\DataTypesApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-1\DataTypesApp\DataTypesApp\obj\Debug\net8.0\ref\DataTypesApp.dll

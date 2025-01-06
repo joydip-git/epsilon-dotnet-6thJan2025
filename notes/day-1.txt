@@ -1,3 +1,153 @@
-https://github.com/joydip-git/epsilon-dotnet-6thJan2025
+.NET Core?
+
+C#:
+	basics
+	OOP
+	Advanced
+
+Database Connectivity: ADO.NET and EF
+
+Web Application: ASP.NET Core
+
+.NET and .NET Framework
+
+90's => COM (Component Object Model) => VB, VF, VC++ etc.
+Visual Studio
+
+2002 => .NET Framework (C#.NET, VB.NET, VF#, VC++.NET etc.)
+Visual Studio for .NET
+
+a. Base/Framework Class Library (BCL/FCL)
+b. CLR (Common Language Runtime)
+c. ADO.NET (ActiveX Data Object.NET) and Entity Framework
+d. ASP.NET (Active Server Pages.NET)
+e. UI (UI-based, desktop apps)
+
+
+source code [*.cs/*.vb] => compiler => Intermediate Language Code (IL Code) [output file - *.exe -> has Main method/*.dll-> do not have Main method]
+
+runtime => Common Language Runtime
+
+IL Code => runtime => Machine Language Code (executed)
+
+.net framework
+
+year	.net framework		CLR		C#		VS
+2002		1.0 		1.0		1.0		7.0
+2003		1.1		1.1		1.1		
+2005		2.0		2.0		2.0		8.0
+2007		3.0		2.0		3.0			
+2008		3.5		2.0		3.5		9.0
+2010		4.0		4.0		4.0		10.0
+2012/13		4.5		4.0		5.0		new
+2015		4.6		4.0		6.0		new
+2017		4.7		4.0		7.0		new
+2019		4.8		4.0		8.0		new
+
+.net core framework (open source)
+1.0, 1.1, 2.0, 2.2, 3.0, 3.1 [2016 - 2019]
+
+.NET 		C#
+5.0 		9
+6.0[LTS] 	10
+7.0 		11
+8.0[LTS] 	12
+9.0		13
+
+a. .NET library
+b. .NET runtime, (console apps, library apps)
+	=> .NET Desktop Runtime [desktop based app for windows O/S]
+	=> ASP.NET Core Runtime [asp.net core apps]
+c. ADO.NET and Entity Framework Core
+d. ASP.NET Core 
+
+compilers: Roslyn for C#.NET and VB.NET
+
+source code [*.cs/*.vb] => compiler => Intermediate Language Code (IL Code) [output file]
+IL Code => runtime => Machine level code (executed)
+
+IDE: Visual Studio and Visual Studio Code
+Language: C#
+
+
+C# =>
+	a. object oriented programming language (OOP)
+	b. type-safe language
+	c. case-sensitive language
+
+template 	=> console 
+		=> console application
+
+solution file (.sln) => container for multiple apps/projects
+
+namespace => its a way to organize the types (class, interface etc.) as well as segregate
+its just a logical name (no output file is created after that name after compilation)
+namespace name => by default its is the name of the aplication, which you can change or even create further namespaces
+
+
+Drawing.dll
+namespace Drawing
+{
+	class Rectangle{}
+	class Circle{}
+}
+
+SqlClient.dll
+namespace Data
+{
+	namespace SqlClient
+	{
+		class SqlConnection{}
+	}	
+}
+
+OracleClient.dll
+namespace Data
+{
+	namespace OracleClient
+	{
+		class OracleConnection{}
+	}
+}
+
+
+Basics of C#:
+-----------------------------
+			data types
+	value types				reference types
+built-in	user-defined		built-in	user-defined
+
+byte
+sbyte
+
+short
+ushort
+
+int
+uint
+
+long
+ulong
+
+float
+decimal
+double
+
+char
+
+bool
+
+DateTime
+TimeSpan
+
+control flow statements
+operators
+
+Class and Object
+array
+	
+
+
+
 
 

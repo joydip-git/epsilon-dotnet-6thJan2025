@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2235063-6825-4B9B-888E-3FBFA18C4973}|HelloWorldApp\\HelloWorldApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-1\\helloworldapp\\helloworldapp\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2235063-6825-4B9B-888E-3FBFA18C4973}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2235063-6825-4B9B-888E-3FBFA18C4973}|HelloWorldApp\\HelloWorldApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-1\\helloworldapp\\helloworldapp\\helloworldapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D2235063-6825-4B9B-888E-3FBFA18C4973}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\helloworldapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2235063-6825-4B9B-888E-3FBFA18C4973}|HelloWorldApp\\HelloWorldApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-1\\helloworldapp\\helloworldapp\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2235063-6825-4B9B-888E-3FBFA18C4973}|HelloWorldApp\\HelloWorldApp.csproj|solutionrelative:helloworldapp\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldApp",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
+              "RelativeDocumentMoniker": "HelloWorldApp\\HelloWorldApp.csproj",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
+              "RelativeToolTip": "HelloWorldApp\\HelloWorldApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T07:31:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sample.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\HelloWorldApp\\Sample.cs",
+              "RelativeDocumentMoniker": "HelloWorldApp\\Sample.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\HelloWorldApp\\Sample.cs",
+              "RelativeToolTip": "HelloWorldApp\\Sample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:59:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\HelloWorldApp\\UserInterface.cs",
+              "RelativeDocumentMoniker": "HelloWorldApp\\UserInterface.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-1\\HelloWorldApp\\HelloWorldApp\\UserInterface.cs",
+              "RelativeToolTip": "HelloWorldApp\\UserInterface.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:36:55.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
