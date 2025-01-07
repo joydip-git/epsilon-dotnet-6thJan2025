@@ -60,6 +60,43 @@ id= 1002
 name = karthik
 mobile = 909091....
 
+class => blueprint for objects
+
+namespace namespace-name
+{
+	class class-name
+	{
+		data-type data-member-name1;
+		data-type data-member-name2;
+		...
+		data-type data-member-nameN;
+
+		public class-name(){}
+
+		public class-name(data-type arg1, data-type arg2, ..., data-type 		argN)
+		{ 
+			data-member-name1 = arg1;
+			data-member-name2 = arg2;
+			.....
+			data-member-nameN = argN;
+		}
+
+		public static void M1(){}
+		public void M2(){}
+	}
+}
+
+class-name ref-var-name = new class-name-ctor(args...);
+ref-var-name.M2();
+class-name.M1();
+
+methods of class => static and non-static (instance)
+
+Read() => anil => a => 65
+ReadKey() => 
+ReadLine() => anil => "anil"
+	   => 100  => "100" => int.Parse()
+
 
 
 

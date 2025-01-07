@@ -1,0 +1,17 @@
+create a console app for some calculation:
+
+	4 static mehods in Program class apart from Main method
+	- Add
+	- Subtract
+	- Multiply
+	- Divide
+
+	all 4 methods accepts two arguents (parameters).
+	data type: int (both)
+
+	all 4 methods must calculate and the return the resultant
+	return type: int
+
+	call those 4 methods from user (one by one)
+	accept parameters to be passed to those methods from user
+	print the results

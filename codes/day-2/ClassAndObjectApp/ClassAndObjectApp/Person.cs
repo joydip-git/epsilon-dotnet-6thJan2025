@@ -25,5 +25,15 @@
             name = pName;
             mobile = pMobile;
         }
+
+        //regular method
+        public void PrintValues()
+        {
+            //implicit conversion (int, long -> string)
+            //Console.WriteLine("Id: " + id + ", Name: " + name + ", Mobile: " + mobile);
+
+            //new syntax (string interpolation)
+            Console.WriteLine($"Id: {id}, Name={name}, Mobile={mobile}");
+        }
     }
 }

@@ -112,12 +112,14 @@ namespace Data
 
 
 Basics of C#:
------------------------------
+---------------------------------------------------------------------------------
 			data types
 	value types				reference types
+----------------------------------------------------------------------------------
 built-in	user-defined		built-in	user-defined
+----------------------------------------------------------------------------
 
-byte					string		class
+byte		struct, enum		string, object	class, interface, delegate, 							event
 sbyte
 
 short
@@ -139,6 +141,7 @@ bool
 
 DateTime
 TimeSpan
+
 
 control flow statements
 operators
