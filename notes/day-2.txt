@@ -1,0 +1,66 @@
+.net framework vs .NET (rebranded version of .NET Core Framework)
+
+project/app structure:
+	app-name (folder)
+		app-name (project folder)
+			app-name.csproj (C# project file)
+			class-file.cs
+			bin (folder) => output directory
+			obj (folder)
+		app-name.sln
+
+
+executable app: console app
+
+Program.cs
+namespace app-name
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			//local variable
+			byte numValue = 100;
+		}
+	}	
+}
+
+ctrl K+D => formatting
+Ctrl K+C => commenting a line/s
+Ctrl K+U => uncommenting a line/s
+
+
+class and object:
+-----------------------------
+class Person
+{
+	int id;
+	string name;
+	long mobile;
+}
+
+ new Person()
+ new Person()
+
+1. look at Person class
+2. find out how many "data members" are present
+3. allocate memory block for them in "heap" region
+4. assign default values to them (until the proper values are assigned) using constructor function
+	
+
+instance
+
+id = 1001
+name = joydip
+mobile = 909090...
+
+instance
+
+id= 1002
+name = karthik
+mobile = 909091....
+
+
+
+
+

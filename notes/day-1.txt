@@ -117,7 +117,7 @@ Basics of C#:
 	value types				reference types
 built-in	user-defined		built-in	user-defined
 
-byte
+byte					string		class
 sbyte
 
 short

@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\net8.0\ClassAndObjectApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\net8.0\ClassAndObjectApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\net8.0\ClassAndObjectApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\net8.0\ClassAndObjectApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\bin\Debug\net8.0\ClassAndObjectApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\refint\ClassAndObjectApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ClassAndObjectApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\ClassAndObjectApp\ClassAndObjectApp\obj\Debug\net8.0\ref\ClassAndObjectApp.dll
