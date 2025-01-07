@@ -97,6 +97,39 @@ ReadKey() =>
 ReadLine() => anil => "anil"
 	   => 100  => "100" => int.Parse()
 
+operators: 
+crireria: operation being performed
+	a. arithmetic: +, -, /, *, %
+
+	b. relational: ==, !=, >, <, >=, <=
+
+	c. logical: logical AND (&&) and logical OR (||) and logical NOT (!)
+	bool a=true; a, !a
+
+	d. bitwise: bitwise AND (&), bitwise OR (|), bitwise XOR (^), bitwise complement (~), left shift (<<), right shift (>>)
+
+	e. assignment: = (simple), += (add), -= (subtract), *= (multiply), /= (divide), %= (modulus), >>= (right shift), <<= (bitiwse left shift) &= (bitwise AND),  |= (bitiwise OR), ^= (bitwise exclusive)
+	int a = 10;
+
+	f. conditional: condition? first_expression:second_expression;
+
+criteria: number of operands
+	a. unary: ++ (increment), -- (decrement)
+	int a = 10; a++; (a = a+1) ++a;
+	a--, --a;
+	b. binary: aritmetic
+	c. ternary: conditional operator (?:)
+	
+control flow statements:
+	a. selection statements: uses branching in code to decide which code to execute based on some condition
+	if, if...else, switch...case
+
+	b. iteration statements:
+	uses looping to control the flow of a program
+	for, while, do..while, foreach
+
+	c. jump statements: break, continue, return, goto
+	
 
 
 

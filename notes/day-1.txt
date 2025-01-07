@@ -142,10 +142,6 @@ bool
 DateTime
 TimeSpan
 
-
-control flow statements
-operators
-
 Class and Object
 array
 	

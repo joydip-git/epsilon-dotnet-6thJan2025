@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\bin\Debug\net8.0\OperatorsApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\bin\Debug\net8.0\OperatorsApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\bin\Debug\net8.0\OperatorsApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\bin\Debug\net8.0\OperatorsApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\bin\Debug\net8.0\OperatorsApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\refint\OperatorsApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\OperatorsApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-2\OperatorsApp\OperatorsApp\obj\Debug\net8.0\ref\OperatorsApp.dll

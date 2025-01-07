@@ -15,3 +15,44 @@ create a console app for some calculation:
 	call those 4 methods from user (one by one)
 	accept parameters to be passed to those methods from user
 	print the results
+
+enhancement:
+	print a menu for user
+	accept a choice from user
+	based on the choice invoke a method
+
+	the application should run at least once and perform at least one operation. then ask user whether to continue further or not. based on the choice either the application will continue running or terminate.
+
+
+
+
+	----MENU-----
+	1. Add
+	2. Subtract
+	3. Multiply
+	4. Divide
+
+	Enter Choice[1/2/3/4]: 1
+
+	Enter First Value: 12
+	Enter Second Value: 3
+
+	Add Result: 15
+
+	Continue[y/Y/n/N]: y
+
+	----MENU-----
+	1. Add
+	2. Subtract
+	3. Multiply
+	4. Divide
+
+	Enter Choice[1/2/3/4]: 2
+
+	Enter First Value: 12
+	Enter Second Value: 3
+
+	Subtraction Result: 9
+
+	Continue[y/Y/n/N]: n
+	....
