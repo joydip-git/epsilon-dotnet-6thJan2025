@@ -1,0 +1,5 @@
+Debugging:
+	windows:
+		1. locals: displays all local variables of a method that is currently in the execution scope
+		2. Autos: displays the local variable(s) of the current line and already executed lines in a method that is currently in the execution scope
+		3. watch:  manually evaluate a local variable(s) of a method that is currently in the execution scope

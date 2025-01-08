@@ -68,7 +68,5 @@
         static int Divide(int first, int second) => first / second;
 
         static void PrintResult(string methodName, int result) => Console.WriteLine($"{methodName} result: {result}");
-
-        // ==, !=, >, <, >=, <=
     }
 }
