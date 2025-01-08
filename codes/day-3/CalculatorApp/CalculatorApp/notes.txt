@@ -1,0 +1,65 @@
+﻿namespace CalculatorApp
+{
+    class CalcRecord
+    {
+        private readonly int result;
+        private readonly string method;
+
+        public CalcRecord()
+        {
+            //method=null;
+            //result=0;
+        }
+        public CalcRecord(int result, string method)
+        {
+            this.result = result;
+            this.method = method;
+        }
+
+        //public void SetReult(int value) => this.result = value;
+        //public int GetResult() => result;
+
+        //property or property function
+        //public int Result
+        //{
+        //    //set accessor
+        //    set => result = value;
+        //    //get accesor
+        //    get => result;
+        //}
+
+        //readonly property
+        public int Result
+        {
+            get => result;
+        }
+
+        //public int Result
+        //{
+        //    set => result = value;
+        //}
+
+        //public void SetMethod(string method) => this.method = method;
+        //public string GetMethod() => method;
+        //public string Method
+        //{
+        //    set => method = value;
+        //    get => method;
+        //}
+
+        //readonly property (Expression Body Syntax)
+        public string Method => method;
+    }
+}
+
+
+alternate switch syntax:
+
+            //int result = calculationChoice switch
+            //{
+            //    1 => Add(firstNumber, secondNumber),
+            //    2 => Subtract(firstNumber, secondNumber),
+            //    3 => Multiply(firstNumber, secondNumber),
+            //    4 => Divide(firstNumber, secondNumber),
+            //    _ => 0,
+            //};

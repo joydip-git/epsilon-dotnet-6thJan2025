@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\calcrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calcrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\userinterface\\calculatorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\userinterface\\calculatorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\service\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\service\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\utilities\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\utilities\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\models\\calculationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\models\\calculationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-3\\calculatorapp\\calculatorapp\\controller\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E46E3-E255-4B9F-8693-51FF15D40478}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\controller\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalcRecord.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\CalcRecord.cs",
-              "RelativeDocumentMoniker": "CalculatorApp\\CalcRecord.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\CalcRecord.cs",
-              "RelativeToolTip": "CalculatorApp\\CalcRecord.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Service\\CalculationService.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Service\\CalculationService.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Service\\CalculationService.cs",
+              "RelativeToolTip": "CalculatorApp\\Service\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T05:11:16.615Z",
+              "WhenOpened": "2025-01-08T07:53:53.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CalculatorApp.csproj",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
-              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorApp.csproj",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
-              "RelativeToolTip": "CalculatorApp\\CalculatorApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-07T07:17:04.942Z"
+              "Title": "UIUtility.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Utilities\\UIUtility.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Utilities\\UIUtility.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Utilities\\UIUtility.cs",
+              "RelativeToolTip": "CalculatorApp\\Utilities\\UIUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:50:20.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Program.cs",
-              "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Program.cs",
-              "RelativeToolTip": "CalculatorApp\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CalculatorUI.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\UserInterface\\CalculatorUI.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\UserInterface\\CalculatorUI.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\UserInterface\\CalculatorUI.cs",
+              "RelativeToolTip": "CalculatorApp\\UserInterface\\CalculatorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T07:15:16.559Z",
+              "WhenOpened": "2025-01-08T07:50:00.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Controller\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Controller\\CalculatorController.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Controller\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorApp\\Controller\\CalculatorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:49:02.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationOutput.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Models\\CalculationOutput.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Models\\CalculationOutput.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-3\\CalculatorApp\\CalculatorApp\\Models\\CalculationOutput.cs",
+              "RelativeToolTip": "CalculatorApp\\Models\\CalculationOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:48:50.783Z",
               "EditorCaption": ""
             }
           ]

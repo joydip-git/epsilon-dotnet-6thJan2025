@@ -3,3 +3,51 @@ Debugging:
 		1. locals: displays all local variables of a method that is currently in the execution scope
 		2. Autos: displays the local variable(s) of the current line and already executed lines in a method that is currently in the execution scope
 		3. watch:  manually evaluate a local variable(s) of a method that is currently in the execution scope
+
+	keys: 	step into -> F11
+		step over -> F10
+
+method best practices:
+	create small reusable methods, ecah of them doing exactly one job.
+	these small methods are easy to deubg and maintan and can be used as many times as you want
+
+class members:
+	data or fields
+	constructor
+	methods
+	properties: 
+		encapsulates a data member
+		assigns the value to the data member: set accessor (setter method)
+		returns the value of the data member: get accessor (getter method)
+		property with ONLY getter -> readonly property
+		property with ONLY setter -> writeonly property
+
+	syntax:
+	public <return-type> PropName
+	{
+		set => data_member = value;
+		get => data_member;
+	}
+
+access specifiers:
+	specifies the accessibility of a member
+	1. private: can be accessed within the class scope (code) ONLY, can't be accessed via the reference variable of the class.
+	2. public: can be accessed within the class scope (code) as well as can be accessed via the reference variable of the class.
+
+
+keywords: readonly => a data member declared with readonly keyword can be ONLY assigned through constructor.
+
+
+separation of concern: which concern is addressed by which method
+
+static class => a class with ONLY static members
+utility classes are always static classes
+
+
+static import => using static namespacename.staticclassname
+
+
+	
+		
+		
+

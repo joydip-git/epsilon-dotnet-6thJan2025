@@ -7,4 +7,16 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <!--<ItemGroup>
+    <Compile Include="CalcRecord.txt" />
+  </ItemGroup>-->
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Service\" />
+  </ItemGroup>
+
 </Project>
