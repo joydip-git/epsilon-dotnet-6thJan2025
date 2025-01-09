@@ -1,0 +1,22 @@
+autogenerate class member code:
+	right click and select the option => "Quick actions and refactorings" from context menu
+	[generate data members, ctors and properties]
+	generate data members and properties: "propfull" code snippet
+	generate default ctor: "ctor" code snippet
+	
+
+class access spcifiers: 
+	internal and public => by default any class is "internal"
+	
+	internal => a class (or even any type) is publicly available within the application (assembly) where it has been declared.
+	
+	public => a class (or even any type) is publicly available within the application (assembly) where it has been declared as well from outside that application.
+
+how to create library application in .NET:
+---------------------------------------------------
+library => not standalone (can't be run directly like executable application, such as, console application)
+these applications, when compiled, produces *.dll file as output.
+they are used from other applications (console, another library, web app etc.)
+
+template => "class library"
+
