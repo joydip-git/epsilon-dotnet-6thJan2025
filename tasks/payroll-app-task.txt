@@ -24,3 +24,14 @@ c. print the total pay of the employee along with the name of that employee
 ex: Total Salary of Sunil is 10000
 
 Note: try to use logic segregation through multiple classes
+
+complete project structure:
+
+solution (blank):
+----------------------------
+Epsilon.DotNet.PayRollApp
+
+applications:
+-----------------------
+Epsilon.DotNet.PayRollApp.PayRollUserInterface -> executable (console) app
+Epsilon.DotNet.PayRollApp.Models -> library app
