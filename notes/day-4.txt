@@ -19,3 +19,40 @@ these applications, when compiled, produces *.dll file as output.
 they are used from other applications (console, another library, web app etc.)
 
 template => "class library"
+
+
+Array:
+-------------------------
+class Array
+{
+	int _first;//0
+	int _second;//1
+	int _third;//2
+
+	public Array(){}
+
+	public Array(int x, int y, int z)
+	{
+		_first = x;
+		_second = y;
+		_third = z;
+	}	
+
+}
+
+Array numbers = new Array(int,3);
+Values names = new Values("venky","k","s","j");
+
+ new Array(int,3);
+
+array is an collection of homogeneous (similar) type of elements
+
+syntax:
+class-name var-name = new class-name-ctor();
+<data-type>[] <var-name> = new <data-type>[3];
+int[] numbers = new int[3]; //Array numbers = new Array(tyepof(int),3);
+
+ //[x]
+ //x -> index value of the memory block which stores the actual data,
+ //[] -> indexer (a special type of property)
+

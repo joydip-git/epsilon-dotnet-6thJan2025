@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\refint\ArrayDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-4\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ref\ArrayDemo.dll

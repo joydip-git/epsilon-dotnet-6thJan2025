@@ -25,6 +25,15 @@ ex: Total Salary of Sunil is 10000
 
 Note: try to use logic segregation through multiple classes
 
+enhancement:
+------------------
+change the code in Main method to create multiple instances of the Employee class, where those instances will be saved in a single-dimensional array
+a. ask user to enter the size of the array
+b. create the array to store employee references
+c. create as many objects and placed each of them in the array
+	- accept the values from user about the employee
+d. iterate through the array and print the salary of those employees
+
 complete project structure:
 
 solution (blank):
@@ -35,3 +44,5 @@ applications:
 -----------------------
 Epsilon.DotNet.PayRollApp.PayRollUserInterface -> executable (console) app
 Epsilon.DotNet.PayRollApp.Models -> library app
+
+

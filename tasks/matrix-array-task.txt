@@ -1,0 +1,32 @@
+[matrix arrray: number of rows and columns are identical]
+
+create a console application, where
+given a two dimensional odd-numered matrix array [n*n, where n%2!=0], produce a single dimensional array, where the value will be copied from the matrix array in the following fashion:
+a. lowest value of matrix array should be placed at the middle index position of the single dimensional array
+b. then in a left to right fashion, the next highest values should be organized.
+means: next highest goes to the left of the middle and the subsequent next highest value should be placed at the right side of the middle index
+
+two dim matrix array: 3*3
+[
+	50,20,30,
+	10,40,90,
+	70,60,80
+]
+
+=> let-right
+
+	0	1	2	3	4	5	6	7	8
+---------------------------------------------------------------------------------
+
+[	80	60	40	20	10	30	50	70	90	]
+
+1. create console application
+2. in the Main method
+	- create two dimensional odd-numbered matrix array, where the size of the array ia accepted from user
+	- then accept the values also from user to be stored in the matrix array
+	- then write the logic to complete the application
+
+
+
+
+
