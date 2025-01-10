@@ -2,12 +2,54 @@ class: blupeprint for real-time entity (instance)
 object: real-time entity
 
 OOP concepts:
-
+(PIE theory)
 a. encapsulation: data member (attributes) and methods (behavior)
 
 b. data abstraction: inside class using some access specifiers (private, protected) you hide the actual location of data about the instance, so that the data can't be manipulated from outside the class code (through instance).
 
-c. polymorphism: poly (many) and morph (form)
+
+c. inheritance:
+	mechanism through which one class can inherit (arquire) attributes and behaviors from another class
+	to avoid repeated/redundant code
+	injects re-usability
+
+
+			class Animal [base/parent class]
+			-------------------
+			bodycolor
+			breed	
+
+			MakeSound()		
+			TakeNap()		
+
+			
+
+			derived/child classes
+class Cat:Animal	class Dog:Animal	class Bird:Animal
+						Fly()
+
+constructor execution sequence:
+----------------------------------------
+when you create an instance of a child class, along with chld class's constructor (whichever you called), parent class's default ctor (by default) also gets invoked implcitly.
+
+-> parent class's ctor (by default the default ctor) assigns the value to the inherited data members
+
+-> child class's ctor (whichever you called) assigns the value to the child class's explicit data members
+
+you can explicitly invoke/call base class's ctors from child class, using "base" keyword.
+you can not only call constructor of base class using "base" keyword from child class, but also other members of base class (accessible from child), via "base" keyword
+
+in case of inheritance, the private members of base class are also inherited in child class, but can't be accessed from child class directly. 
+
+a. if you want to access the base class's private data members from child class code, declare those members in the base class with protected keyword.
+protected => which allows the members of the class to be accessed within that class code as well as from child class code. but again, like private, they can't be accessed from outside both (parent and derived) class code.
+
+b. if those private data members of the base class do have public properties, you can access those inherited private data members via the inherited public properties from the child class. in this case those private data members do not need to be converted to "protected" data members.
+
+c. you keep the data members of the base class "private" and create a paraneterized ctor in the base class, to assign the values to those data members. then invoke the base class's parameterized ctor from child class's ctor using "base" keyword.
+
+
+d. polymorphism: poly (many) and morph (form)
 
 what can be polymorphed?
 	i. method
@@ -23,6 +65,12 @@ method overloading: multiple method in the same class with same name, but has di
 			c. order of arguments different
 
 when we overload constructor (special type of method), it is knonw as constructor overloading
+
+you can overload operators too.
+a(10)+b(20) => 30
+a(epsilon)+b(,bangalore)=> epsilon,bangaloe
+
+//a.Concat(b)
 
 static binding:
 -----------------------
@@ -41,13 +89,10 @@ static or compile time polymorphism:
 ------------------------------------------------
 you have created some overloaded methods in a class and compiler decides which method to call when it finds an invocation line.
 you you are using some operator to do some operation on certain operands, the compiler decides which type of operation to perform, depending on the data type of the operands
-example: method overloading, operator overloading
+example: method overloading, operator overloading.
 
-a(10)+b(20) => 30
-a(epsilon)+b(,bangalore)=> epsilon,bangaloe
 
-//a.Concat(b)
-
+			
 
 
 

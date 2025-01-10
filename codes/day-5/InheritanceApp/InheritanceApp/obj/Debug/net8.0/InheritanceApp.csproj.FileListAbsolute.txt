@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\bin\Debug\net8.0\InheritanceApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\refint\InheritanceApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\InheritanceApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\InheritanceApp\InheritanceApp\obj\Debug\net8.0\ref\InheritanceApp.dll
