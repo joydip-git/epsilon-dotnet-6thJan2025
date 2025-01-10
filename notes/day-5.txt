@@ -1,0 +1,55 @@
+class: blupeprint for real-time entity (instance)
+object: real-time entity
+
+OOP concepts:
+
+a. encapsulation: data member (attributes) and methods (behavior)
+
+b. data abstraction: inside class using some access specifiers (private, protected) you hide the actual location of data about the instance, so that the data can't be manipulated from outside the class code (through instance).
+
+c. polymorphism: poly (many) and morph (form)
+
+what can be polymorphed?
+	i. method
+	ii. operator
+
+types based on how, when and by whom, the polymorphed members are resolved:
+	a. static
+	b. dynamic
+
+method overloading: multiple method in the same class with same name, but has difference with respect to arguments
+			a. number of arguments different
+			b. type of arguments different 
+			c. order of arguments different
+
+when we overload constructor (special type of method), it is knonw as constructor overloading
+
+static binding:
+-----------------------
+1. compilation stage: IL code is produced from source code by compiler
+	links a method with the invocation code
+	compiler tries to decide which method to be called when there is an invocation instruction and it binds the method with the caller line.
+
+	invocation line: calculationObject.Add(12,13,123456789123)
+	method: public void Add(int x, int y, long z){...}
+	
+2. runtime stage: IL code is converted to MLC and then executed
+	runtime simply invokes the method which is "bound" by the compiler with an caller code, when the runtime executes that caller code.
+	Note: runtime generally DO NOT decide which method to call, when called, which is decided generally by compiler before the code in executed in runtime
+
+static or compile time polymorphism:
+------------------------------------------------
+you have created some overloaded methods in a class and compiler decides which method to call when it finds an invocation line.
+you you are using some operator to do some operation on certain operands, the compiler decides which type of operation to perform, depending on the data type of the operands
+example: method overloading, operator overloading
+
+a(10)+b(20) => 30
+a(epsilon)+b(,bangalore)=> epsilon,bangaloe
+
+//a.Concat(b)
+
+
+
+
+
+

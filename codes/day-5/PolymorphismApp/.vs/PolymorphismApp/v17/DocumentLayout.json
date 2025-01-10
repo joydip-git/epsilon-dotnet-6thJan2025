@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B8412F-1DF2-4A70-B1B1-8D01737CBE56}|StaticPolymorphismApp\\StaticPolymorphismApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\polymorphismapp\\staticpolymorphismapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B8412F-1DF2-4A70-B1B1-8D01737CBE56}|StaticPolymorphismApp\\StaticPolymorphismApp.csproj|solutionrelative:staticpolymorphismapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B8412F-1DF2-4A70-B1B1-8D01737CBE56}|StaticPolymorphismApp\\StaticPolymorphismApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\polymorphismapp\\staticpolymorphismapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B8412F-1DF2-4A70-B1B1-8D01737CBE56}|StaticPolymorphismApp\\StaticPolymorphismApp.csproj|solutionrelative:staticpolymorphismapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B8412F-1DF2-4A70-B1B1-8D01737CBE56}|StaticPolymorphismApp\\StaticPolymorphismApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\polymorphismapp\\staticpolymorphismapp\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B8412F-1DF2-4A70-B1B1-8D01737CBE56}|StaticPolymorphismApp\\StaticPolymorphismApp.csproj|solutionrelative:staticpolymorphismapp\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\StaticPolymorphismApp\\Person.cs",
+              "RelativeDocumentMoniker": "StaticPolymorphismApp\\Person.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\StaticPolymorphismApp\\Person.cs",
+              "RelativeToolTip": "StaticPolymorphismApp\\Person.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:28:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\StaticPolymorphismApp\\Calculation.cs",
+              "RelativeDocumentMoniker": "StaticPolymorphismApp\\Calculation.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\StaticPolymorphismApp\\Calculation.cs",
+              "RelativeToolTip": "StaticPolymorphismApp\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:02:47.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\StaticPolymorphismApp\\Program.cs",
+              "RelativeDocumentMoniker": "StaticPolymorphismApp\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\PolymorphismApp\\StaticPolymorphismApp\\Program.cs",
+              "RelativeToolTip": "StaticPolymorphismApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:01:07.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

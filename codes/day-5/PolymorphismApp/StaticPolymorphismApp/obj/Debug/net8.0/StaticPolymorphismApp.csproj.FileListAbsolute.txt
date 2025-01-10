@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\bin\Debug\net8.0\StaticPolymorphismApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\bin\Debug\net8.0\StaticPolymorphismApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\bin\Debug\net8.0\StaticPolymorphismApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\bin\Debug\net8.0\StaticPolymorphismApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\bin\Debug\net8.0\StaticPolymorphismApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\refint\StaticPolymorphismApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\StaticPolymorphismApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-5\PolymorphismApp\StaticPolymorphismApp\obj\Debug\net8.0\ref\StaticPolymorphismApp.dll
