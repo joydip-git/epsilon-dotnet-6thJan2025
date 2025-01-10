@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|solutionrelative:inheritanceapp\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\inheritanceapp\\inheritanceapp\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|solutionrelative:inheritanceapp\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\inheritanceapp\\inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|solutionrelative:inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\inheritanceapp\\inheritanceapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|solutionrelative:inheritanceapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\inheritanceapp\\inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|solutionrelative:inheritanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-5\\inheritanceapp\\inheritanceapp\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942097DE-9F40-48D8-8CDE-DACDC05E26B8}|InheritanceApp\\InheritanceApp.csproj|solutionrelative:inheritanceapp\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Trainee.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\InheritanceApp\\InheritanceApp\\Trainee.cs",
               "RelativeDocumentMoniker": "InheritanceApp\\Trainee.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\InheritanceApp\\InheritanceApp\\Trainee.cs",
               "RelativeToolTip": "InheritanceApp\\Trainee.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T06:23:56.37Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "InheritanceApp\\Trainer.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\InheritanceApp\\InheritanceApp\\Trainer.cs",
               "RelativeToolTip": "InheritanceApp\\Trainer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T06:21:25.203Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "InheritanceApp\\Person.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\InheritanceApp\\InheritanceApp\\Person.cs",
               "RelativeToolTip": "InheritanceApp\\Person.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T06:21:07.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\InheritanceApp\\InheritanceApp\\Program.cs",
               "RelativeDocumentMoniker": "InheritanceApp\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-5\\InheritanceApp\\InheritanceApp\\Program.cs",
               "RelativeToolTip": "InheritanceApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAzwCIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T06:20:57.846Z",
               "EditorCaption": ""

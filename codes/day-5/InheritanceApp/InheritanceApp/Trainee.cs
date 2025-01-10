@@ -2,14 +2,14 @@
 {
     internal class Trainee : Person
     {
-        private string[] projects;
+        private string project;
 
         public Trainee()
         {
             Console.WriteLine("Trainee class default ctor");
         }
-        public Trainee(string name, string[] subjects, string[] projects)
-            : base(name, subjects)
+        public Trainee(string name, string subject, string company, string project)
+            : base(name, subject, company)
         {
             Console.WriteLine("Trainee class parameterized ctor");
 
@@ -22,13 +22,19 @@
             //this.Subjects = subjects;
 
             //explicit data members
-            this.projects = projects;
+            this.project = project;
         }
 
-        private string[] Projects
+        public string Project
         {
-            get { return projects; }
-            set { projects = value; }
+            get { return project; }
+            set { project = value; }
+        }
+
+        //re-implementation of base class GetInformation()
+        public override string GetInformation()
+        {
+            return $"{base.GetInformation()}, Project:{project}";
         }
     }
 }

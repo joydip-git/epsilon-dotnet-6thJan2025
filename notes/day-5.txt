@@ -48,6 +48,11 @@ b. if those private data members of the base class do have public properties, yo
 
 c. you keep the data members of the base class "private" and create a paraneterized ctor in the base class, to assign the values to those data members. then invoke the base class's parameterized ctor from child class's ctor using "base" keyword.
 
+up-casting:
+store reference of a child class object in a reference variable of base class
+through the reference variable of this base class, you can access the members of the base class ONLY, from the child class object (As a child class contains members of both base and child)
+You can't access explicit members of child class, through that reference variable of base class.
+
 
 d. polymorphism: poly (many) and morph (form)
 
@@ -91,7 +96,16 @@ you have created some overloaded methods in a class and compiler decides which m
 you you are using some operator to do some operation on certain operands, the compiler decides which type of operation to perform, depending on the data type of the operands
 example: method overloading, operator overloading.
 
+dynamic polymorphism:
+---------------------------
+in this case polymorphed members will be NOT in a single class
+one will be in base and another will be in child
+both will have the same signature (ditto same)
 
+during runtime, based on which object is being created, the method from that class will be called.
+
+which of the polymorphed methods will be called is actually decided during runtime, based on which object has been created. that's why it is dynamic polymorphism.
+ex: method overriding
 			
 
 

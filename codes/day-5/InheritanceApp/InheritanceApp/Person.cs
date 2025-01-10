@@ -6,18 +6,20 @@
         //protected string[] subjects;
 
         private string name = string.Empty;
-        private string[] subjects;
+        private string subject;
+        private string company;
 
         public Person()
         {
             Console.WriteLine("Person class default ctor");
         }
 
-        public Person(string name, string[] subjects)
+        public Person(string name, string subject, string company)
         {
             Console.WriteLine("Person class parameterized ctor");
             this.name = name;
-            this.subjects = subjects;
+            this.subject = subject;
+            this.company = company;
         }
 
         public string Name
@@ -25,10 +27,20 @@
             get { return name; }
             set { name = value; }
         }
-        public string[] Subjects
+        public string Subject
         {
-            get { return subjects; }
-            set { subjects = value; }
+            get { return subject; }
+            set { subject = value; }
+        }
+        public string Company
+        {
+            get { return company; }
+            set { company = value; }
+        }
+
+        public virtual string GetInformation()
+        {
+            return $"Name:{this.name}, Company: {this.company}, Subject:{subject}";
         }
     }
 }
