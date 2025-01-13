@@ -1,7 +1,7 @@
 create an console application to calulate salary of employees
 
 1. create a library application to create Employee class
-employee	
+Employee:	
 	data: name, id, basicpay, dapay, hrapay, totalpay
 	method: to calculate the total salary (add the basic, da and hra)
 		args: None
@@ -25,7 +25,7 @@ ex: Total Salary of Sunil is 10000
 
 Note: try to use logic segregation through multiple classes
 
-enhancement:
+enhancement-1:
 ------------------
 change the code in Main method to create multiple instances of the Employee class, where those instances will be saved in a single-dimensional array
 a. ask user to enter the size of the array
@@ -33,6 +33,73 @@ b. create the array to store employee references
 c. create as many objects and placed each of them in the array
 	- accept the values from user about the employee
 d. iterate through the array and print the salary of those employees
+
+enhancement-2:
+------------------
+create two child classes of Employee class: Developer and Hr in the library application
+
+Develeoper class:
+	data: name, id, basicpay, dapay, hrapay, totalpay and incentivepay
+	method: override the base clas method to calculate the total salary (add the basic, da, hra and incentive)
+		args: None
+		return: void
+	constructors: default and parameterized
+	properties: for all the members
+
+Hr class:
+	data: name, id, basicpay, dapay, hrapay, totalpay and gratuitypay
+	method: override the base clas method to calculate the total salary (add the basic, da, hra and gratuity)
+		args: None
+		return: void
+	constructors: default and parameterized
+	properties: for all the members
+
+in the Main method:
+	instead of Employee class, you will create objects of Developer and Hr class
+	
+a. ask user to enter the size of the array
+b. create the array to store employee references (developer and hr references)
+c. create as many objects and place each of them in the array
+	- print a menu or a choice to create either instance of Developer or Hr
+	- ask user about object of which class to be created
+	- accept the values from user about that employee
+	- save the instance in the array
+d. iterate through the array and print the salary of those employees
+
+note: override ToString method, to display the name along with total salary
+[example: salary of anil is 10000]
+also implement Equals() and GetHashCode() method too in those classes (Employee, Developer and Hr)
+
+output:
+---------------------
+How many records? 2
+
+1. Developer 2. Hr
+
+Which record to save[1/2]: 1
+
+saving developer record:
+enter id:1000
+enter name: anil
+enter basic: 1000
+enter da: 2000
+enter hra: 3000
+enter incentive: 4000
+
+Which record to save: 2
+
+saving hr record:
+enter id:1001
+enter name: sunil
+enter basic: 1500
+enter da: 2500
+enter hra: 3500
+enter gratuity: 4500
+
+salary of employees:
+salary of anil is 10000
+salary of sunil is 12000
+
 
 complete project structure:
 
