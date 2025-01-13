@@ -109,13 +109,102 @@ data =>
 	d(X) -> 
 	d(Y) ->
 	
--106683992
--106683992
 
-	
-	
+
+abstract member: 
+	a member of a class with the declaration, but no implementation.
+	an abstract member MUST BE declared with "abstract" keyword in C#.
+	abstract members are by default "virtual", that means they must be overriden in child class.
 
 abstract class
-interface
+	a class with at least one abstract member
+	an abstract class MUST BE declared with "abstract" keyword in C#.
+	an abstract class can have also non-abstract members like constructors, data members and other properties, methods etc.
+	object/instance of an abstract class can't be created, because if given the possibility, you might end up calling the abstract members of the class.
+	Abstract class is a way of creating a template, which any child class can inherit from, but MUST implement the abstract members. Otherwise the child class also becomes an abstract class and MUST be declared with abstract keyword.
+	while implementing the base class abstract members in child class, you have to use override keyword.
+
+	Note: 
+	virtual method of a base class CAN be overriden in child class, if you want
+	abstract method of (abstract) base class MUST be overriden in child class
+	
+	a property or a method can be abstract
+	a data and constructor can't be abstract
+
+abstract class A
+{
+	private int id;
+
+	public A(){}
+	public A(int id){ this.id = id; }
+
+	public int Id {set=>id=value; get=>id;}
+
+	public override string ToString()
+	{
+		return $"Id:{id}";
+	}
+
+	public virtual string Show()
+	{
+		return $"Id:{id}";
+	}
+	
+	//abstract method
+	public abstract string GetInfo();
+
+	//abstract property
+	public abstract string Name
+	{
+		get;
+		set;
+	}
+}
+class B:A
+{
+	string name;
+
+	public B(){}
+	public B(int id, string name):base(id)
+	{
+		this.name = name;
+	}
+
+	public override string GetInfo()
+	{
+		return sring.Empty;
+	}
+	public override string Name
+	{
+		get => name;
+		set => name = value;
+	}
+}
+
+
+//not possible
+A obj = new A();
+//obj.GetInfo();
+
+interface:
+-------------------------------
+	an abstract class with all abstract members 	
+	interface is declared with "interface" keyword in C#.
+	no non-abstract members (data members, constructors or other non-abstract methods, properties etc.) can be written inside interface.
+	only abstract properties and methods.
+	all members of interface are by default public and absract. do not declare the members with those two keywords.
+	you can't create an instance of an interface (same reason as that of abstract base class)
+	interface must be implemented in a child class, like the way you inherit from base class. (using : )
+	the child class must implement all the members of an interface and that time there is no need to use "override" keyword, since interface members are not explicitly declared with "abstract" keyword.
+	if the child class doesn't implement one or multiple or all members of an interface, then the class must re-write (Declare) those members with "public" and "abstract" keywords, since the members of any class are not by default public or abstract (unlike interface). also the class must be declared with absract keyword.
+	a class can implement more than one interface (not possible with class)
+
+
+Usage:
+	interface is used as collection of JUST abstract methods/properties. it is used when the classes want to have common functionalities or behavior. interface is used like a "contract", which tells you what an instance "does", rather than what it "is".
+
+	abstract class is used as collection of abstract methods/properties and alos non-abstract members. it is used when the classes want to have common functionalities or behavior as well as attributes. abstract class is used like a "type", which not only tells you what an instance "does", but also what it "is".
+	
+
 
 

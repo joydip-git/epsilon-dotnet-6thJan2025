@@ -70,7 +70,7 @@ note: override ToString method, to display the name along with total salary
 [example: salary of anil is 10000]
 also implement Equals() and GetHashCode() method too in those classes (Employee, Developer and Hr)
 
-output:
+sample output:
 ---------------------
 How many records? 2
 

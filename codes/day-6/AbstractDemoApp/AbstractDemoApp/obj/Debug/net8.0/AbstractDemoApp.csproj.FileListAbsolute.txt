@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\bin\Debug\net8.0\AbstractDemoApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\bin\Debug\net8.0\AbstractDemoApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\bin\Debug\net8.0\AbstractDemoApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\bin\Debug\net8.0\AbstractDemoApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\bin\Debug\net8.0\AbstractDemoApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\refint\AbstractDemoApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\AbstractDemoApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\AbstractDemoApp\AbstractDemoApp\obj\Debug\net8.0\ref\AbstractDemoApp.dll
