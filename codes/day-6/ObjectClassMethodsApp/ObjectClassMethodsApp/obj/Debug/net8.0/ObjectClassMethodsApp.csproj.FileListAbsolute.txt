@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\bin\Debug\net8.0\ObjectClassMethodsApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\bin\Debug\net8.0\ObjectClassMethodsApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\bin\Debug\net8.0\ObjectClassMethodsApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\bin\Debug\net8.0\ObjectClassMethodsApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\bin\Debug\net8.0\ObjectClassMethodsApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\refint\ObjectClassMethodsApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ObjectClassMethodsApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-6\ObjectClassMethodsApp\ObjectClassMethodsApp\obj\Debug\net8.0\ref\ObjectClassMethodsApp.dll

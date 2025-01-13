@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ObjectClassMethodsApp": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}

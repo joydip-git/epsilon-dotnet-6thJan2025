@@ -1,0 +1,121 @@
+day-5 recap:
+
+OOP principles:
+
+1. Encapsulation and data abstraction
+2. Inheritance
+	a. base and child class
+	b. protected access specifier
+	c. constructor execution sequence
+	d. base keyword
+	e. up-casting and down-casting
+	f. types of inheritance
+		a. single-level
+		b. multi-level
+		c. multiple (not supported in C#)
+3. Polymorphism
+	i. static/compile-time:
+		Method overloading, constructor overloading and operator overloading (operator keyword)
+	ii. dynamic/runt-time:
+		Method overriding: virtual and override
+
+
+class A{ public virtual string Print(){}}
+class B:A{ public override string Print(){} }
+class C:B{}
+
+up-casting:[implict conversion]
+A obj = new B();
+obj.Print(); //originally base class method, because of virtual/override child class method
+
+B objB = new C(); 
+or
+A objA = new C();
+
+down-casting;[explicit converion]
+C objC = (C)objA;
+or
+C objC = (C)objB;
+
+not possible ->
+C obj = new B();
+
+
+class A{} class B{}...
+
+class Master:A, B, C,....{}
+
+
+class A
+{
+	public static bool operator >(A x, A y)	{ return false/true;}
+	public static bool operator <(A x, A y)	{ return false/true;}
+}
+
+
+A obj1 = new A();
+A obj2 = new A();
+
+if(obj1>obj2)
+
+
+day-6:
+------------------------
+every class that you create in C#, all of them by default inherits from a base class "Object" (built-in).
+in multi-level inheritance the top-level base class inherits from Object class
+
+class A //:Object
+{
+	//Type GetType();
+
+	//overridable methods
+	//virtual bool Equals(object obj);
+	//virtual string ToString();
+	//virtual int GetHashCode();	
+}
+class B:A{}
+class C:B{}
+
+
+GetHashCode: 
+	used to calculate an unique hash value based on a instance's data
+	hash values of two same data will be same
+	hash values of two different data generally will NOT(*) be same	
+	*two hash values being same for different data, has 0.0000001% chance
+
+	a. if two instances have different hash value, they can be considered deifferent
+	b. if two instances have same hash value, they can be considered same
+	Note: if you still want to verify they are "really" same or not, additionally override "Equals" method to implement it with equality checking code
+
+
+hashing:
+encryption:
+digital signature:
+
+data => 
+	split that data into same-sized small chunks of data
+	pass every chunk to a hash value calculator method, which will return a hash value calculated 
+	that hash value from previous step wil be used in the hash value calculation of the next of chunk of data
+	......
+	
+	d1 -> hash function() {//code: key}-> h1
+	h1 (returned hash value from revious step) + d2 -> hash function
+	.....
+	h(n-1)+d(n) -> hash value (nth)
+
+	2^2, ...2^512
+
+
+	d(X) -> 
+	d(Y) ->
+	
+-106683992
+-106683992
+
+	
+	
+
+abstract class
+interface
+
+
