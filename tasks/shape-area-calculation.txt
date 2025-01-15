@@ -2,11 +2,11 @@ create an application which calculates area of different shapes
 
 two shapes:
 Circle:
-	attributes: radius
+	attributes: radius of the circle
 	functionality: calculates the area of the circle and returns the calculated area
 
 Triangle:
-	attributes: base, height
+	attributes: base of triangle, height of triangle
 	functionality: calculates the area of the triangle and returns the calculated area
 
 A. Create a library application:
@@ -18,3 +18,22 @@ B. create a console application:
 	a. print menu for user so that user can choose which type of shape object to be created
 	b. based on the choice you create that type of object	
 	d. calculate the area of the shape by calling the method and print the return value
+
+
+sample output:
+--------------------------
+1. Circle 2. Triangle
+whic type of shape[1/2]: 1
+enter radius: 12
+area of circle is: <area>
+
+would you like to continue[y/Y/n/N]:y
+
+1. Circle 2. Triangle
+whic type of shape[1/2]: 2
+enter base: 12
+enter height: 7
+area of triangle is: 42
+
+would you like to continue[y/Y/n/N]:n
+...
