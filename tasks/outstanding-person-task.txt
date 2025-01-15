@@ -25,3 +25,44 @@ B. executable application: create a conole application
 		ii. based on the choice you create that type of object
 	c. save every instance in an array
 	d. iterate through the array and figure out which person in outstanding and print the name and marks/number of books publshed for that person ONLY
+
+
+sample output:
+----------------------
+how many records? 4
+
+1. Professor 2. Student
+
+enter choice[1/2]: 1
+
+enter name: anil
+enter number of books published: 3
+
+1. Professor 2. Student
+
+enter choice[1/2]: 2
+
+enter name: sunil
+enter marks: 89
+
+1. Professor 2. Student
+
+enter choice[1/2]: 1
+
+enter name: mahesh
+enter number of books published: 7
+
+1. Professor 2. Student
+
+enter choice[1/2]: 2
+
+enter name: suresh
+enter marks: 78
+
+sunil is an outstanding student with marks: 89
+mahesh is an outstanding professor with number of books published: 7
+
+
+
+
+
