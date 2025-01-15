@@ -52,7 +52,93 @@ DivisionArgumentException:
 	public DivisionArgumentException(string error):base(error)
 	public DivisionArgumentException(string error, Exception inner):base(error,inner)
 	
-	
-generics:
+relationship between classes:
+	is-a	: inheritance
+	has-a	: association
 
-collections:
+association: 
+	types based on cardinality and strength of relationship
+	a. composition [1<->1, 1 <-> M]
+	b. aggregation [ 1 <-> M]
+	c. simple association [ M <->M ]
+
+Composition:
+----------------------
+two entities are sharing composition relationship, wher one is composed of another as well as if one entity's lifecycle/existence depends on another completely
+
+Room [1 Room -> 1 Building]
+Building [1 Building -> Many Rooms]
+
+existence of Room depends on existence Building
+
+Aggregation:
+----------------------
+Desktop [1 Deskotop -> 1 RAM]
+RAM [1 RAM -> 1 Desktop]
+
+two entities are sharing aggregation relationship, where one is aggregation of another as well as if one entity's lifecycle/existence depends on another partially (not so tight like composition)
+
+Simple Association:
+------------------------------
+Trainer [1 Trainer -> Many Trainee]
+Trainee [1 Trainee -> Many Trainer]
+
+two entities are sharing simple association relationship, where one is NOT composed or aggregation of another as well as if one entity's lifecycle/existence DOES NOT depend on another. It is the loosest relationship.
+
+
+class C{}
+
+class A
+{
+	private C cInstance;	
+	public A(C cRef) { cInstance = cRef;}
+	public C CInstance { set => cInstance = value; get => cInstance;}
+}
+
+C objC = new C();
+A objA = new A(objC);
+
+products:
+--------------------------------------------------------------
+id (pk, int) name	price cid (fk -> id of categories)
+1	dell xps 	12000 2
+2	iphone16 	15000 1
+3	lenovo thinkpad 13000 2
+4	oneplus 13 	14000 NULL -> 1
+
+categories:
+------------
+id (pk) name		
+1	mobile
+2	laptop
+
+
+
+Optional arguments with default value:
+	if you do not want to pass values for some parameters to a method, then you can declare those parameters in the method as optional argument by assigning some default values to them.
+	Note: all optional arguments should be the last arguments in the method.
+	
+Nullable Type:
+-------------------------------
+situation
+int id = <id-of-a-product-from-db>;
+int cid = <cid(nullable)-of-a-product-from-db>;
+int data type is value type, hence can't store null.
+
+nullable type: allows the type to store a NULL value or a value of a specific value type.
+
+Nullable<int> cid = null;
+cid = 1;
+
+//short-hand
+int? cid = null;
+cid = 1;
+
+Null Check for reference type:
+-----------------------------------
+string? name = Console.ReadLine();
+console.writeline(name?.ToLower());
+
+Null-coalesce operator:
+-------------------------------
+??

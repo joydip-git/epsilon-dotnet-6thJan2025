@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\bin\Debug\net8.0\AssociationDemo.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\bin\Debug\net8.0\AssociationDemo.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\bin\Debug\net8.0\AssociationDemo.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\bin\Debug\net8.0\AssociationDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\bin\Debug\net8.0\AssociationDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\refint\AssociationDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\AssociationDemo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-7\AssociationDemo\AssociationDemo\obj\Debug\net8.0\ref\AssociationDemo.dll
