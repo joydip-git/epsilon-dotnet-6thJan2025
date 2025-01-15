@@ -1,0 +1,58 @@
+exception handling:
+	errors in app:
+	1. compile-time error: compiler will detect those errors.
+	2. runtime error: 
+		caused by some code, which runtime can't execute.
+		ex: divide a number by zero, access value from an invalid index position in array etc.
+		runtime stops execution of your code
+		runtime itself creates object of an built-in class, Exception.
+		populates that class object with information, such as, in which line the error occurred in which class, in which file of which application etc.
+		and then runtime passes (throws) the reference of that Exception class object in your code.
+		you should provide facility to accept (catch) that Exception object reference in order to get full details abou what went wrong in the application.
+
+	"handle" exception using "try...catch" block.
+	try block -> write actual code inside with possibility fo exception
+	catch block -> to catch exception
+	finally block -> makes sure that the code written inside is always executed, irrespective of the exception. it is used to clear/close resources (such as: database connecion closing, file connection closing etc.)
+
+	Note:
+	One try block can have multiple catch blocks
+	in case of multiple catch blocks, the catch block with top-level base class Exception should be that last one.
+	Because this is the catch block iwth super class Exception and being the base class for every other exeption classes, it can hold reference of any child exception class object.
+	you can throw your own exception or rethrow already caught exception, by using "throw" keyword
+	with one try block, ONLY ONE finally block is allowed.
+
+
+	            Exception
+SystemException			ApplicationException
+---------------------------------------------------------------
+FormatException	     	application custom exception classes
+DivideByZeroException
+NullReferenceException
+	etc.
+
+
+Exception:
+	private string _message;
+
+	public Exception()
+	public Exception(string error) { _message = error;}
+	public Exception(string error, Exception inner)	
+	
+	public virtual string Message => _message;
+
+ApplicationException:
+	public Exception()
+	public Exception(string error):base(error)
+	public Exception(string error, Exception inner):base(error,inner)
+
+
+DivisionArgumentException:
+	public DivisionArgumentException()
+	public DivisionArgumentException(string error):base(error)
+	public DivisionArgumentException(string error, Exception inner):base(error,inner)
+	
+	
+generics:
+
+collections:
