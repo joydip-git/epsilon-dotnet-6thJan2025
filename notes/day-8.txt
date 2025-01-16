@@ -1,0 +1,48 @@
+.NET 8 SDK CLI (Command Line Interface) tool: dotnet
+
+command to print the list of .NET SDKs installed in your machine
+>dotnet --list-sdks
+
+1. create an app:
+>dotnet new -> command to create new application
+>dotnet new --list (list of all types of application)
+
+new console app using .net8
+>dotnet new console --name FirstApp -f net8.0
+
+new class library app using .net8
+>dotnet new classlib --name FirstApp -f net8.0
+
+2. compile app: (classlib or console app)
+you are in the project folder =>
+
+>dotnet build 
+
+3. run the app:
+you are in the project folder =>
+
+>dotnet run
+
+
+4. add reference
+	a. Project reference: add reference to an existing csproj file
+	>donet add reference <project-file-path (relative)>
+	example:
+	SampleClientApp adding reference to SampleLibrary.csproj file
+	you are in the SampleClientApp project folder =>
+	>dotnet add reference ..\SampleLibrary\SampleLibrary.csproj
+
+	b. Package Reference: add reference to a built-in library (package)
+	>dotnet add package <package-name>
+	example: >dotnet add package Microsoft.Data.SqlClient --version 6.0.0
+
+Design Principles in C#:
+--------------------------------
+SOLID principle
+	a. S => Single Responsibilty Principle (SRP)
+		Every software module has only one reason to change
+
+	b. O => Open Closed Principle (OCP)
+	c. L => Liskov Substitution Principle (LSP)
+	d. I => Interface Segregation Principle (ISP)
+	e. D => Dependency Inversion Principle (DIP)

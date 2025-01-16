@@ -1,0 +1,12 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\bin\Debug\net8.0\SampleLibrary.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\bin\Debug\net8.0\SampleLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\bin\Debug\net8.0\SampleLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\refint\SampleLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\SampleLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\SampleLibrary\obj\Debug\net8.0\ref\SampleLibrary.dll

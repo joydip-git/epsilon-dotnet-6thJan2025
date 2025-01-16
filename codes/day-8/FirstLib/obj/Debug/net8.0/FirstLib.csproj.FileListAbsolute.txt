@@ -1,0 +1,12 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\bin\Debug\net8.0\FirstLib.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\bin\Debug\net8.0\FirstLib.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\bin\Debug\net8.0\FirstLib.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\refint\FirstLib.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\FirstLib.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\FirstLib\obj\Debug\net8.0\ref\FirstLib.dll
