@@ -1,0 +1,15 @@
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\bin\Debug\net8.0\LSPApp.exe
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\bin\Debug\net8.0\LSPApp.deps.json
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\bin\Debug\net8.0\LSPApp.runtimeconfig.json
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\bin\Debug\net8.0\LSPApp.dll
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\bin\Debug\net8.0\LSPApp.pdb
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.AssemblyInfoInputs.cache
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.AssemblyInfo.cs
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.csproj.CoreCompileInputs.cache
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.sourcelink.json
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.dll
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\refint\LSPApp.dll
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.pdb
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\LSPApp.genruntimeconfig.cache
+d:\training\epsilon-dotnet-6thJan2025\codes\day-8\LSPApp\obj\Debug\net8.0\ref\LSPApp.dll

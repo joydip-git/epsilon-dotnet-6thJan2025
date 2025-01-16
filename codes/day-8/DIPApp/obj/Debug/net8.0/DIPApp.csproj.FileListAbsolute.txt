@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\bin\Debug\net8.0\DIPApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\bin\Debug\net8.0\DIPApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\bin\Debug\net8.0\DIPApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\bin\Debug\net8.0\DIPApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\bin\Debug\net8.0\DIPApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\refint\DIPApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\DIPApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\DIPApp\obj\Debug\net8.0\ref\DIPApp.dll

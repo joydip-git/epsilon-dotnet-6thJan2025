@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\bin\Debug\net8.0\OCPApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\bin\Debug\net8.0\OCPApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\bin\Debug\net8.0\OCPApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\bin\Debug\net8.0\OCPApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\bin\Debug\net8.0\OCPApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\refint\OCPApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\OCPApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-8\OCPApp\obj\Debug\net8.0\ref\OCPApp.dll

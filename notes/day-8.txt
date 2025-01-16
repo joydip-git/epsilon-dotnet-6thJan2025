@@ -43,6 +43,39 @@ SOLID principle
 		Every software module has only one reason to change
 
 	b. O => Open Closed Principle (OCP)
+		a s/w module or class is open for extension and closed for modification.
+
 	c. L => Liskov Substitution Principle (LSP)
+		you should be able to use any derived class instead of a parent class and make it behave in the same manner without modification.
+		[a derived class must be substitutable for its base class]
+
 	d. I => Interface Segregation Principle (ISP)
 	e. D => Dependency Inversion Principle (DIP)
+
+
+UserService class instance depends on an instance of EmailService class
+UserService instance => dependent
+EmailService instance => dependency factor
+
+Dependent entities will suffer because of...
+a. if name of dependency factor changes
+b. if dependency factor architecture changes (such as the class becomes abstract with extra child classes)
+c. if constructor of dependency factor throws exception
+
+You have to re-write the code in dependents even sometimes
+
+this situation where any change or issue in dependency factor forces the dependent entities to change is known as "tight coupling".
+
+loose coupling is the answer to the previous problem
+
+
+singleton design pattern: design pattern to create single instance of an entity
+
+interfaces:
+
+SqlFile 	ReadOnlySqlFile
+readtext()	readtext()
+savetext()	
+
+
+
