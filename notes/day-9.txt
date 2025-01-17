@@ -1,0 +1,32 @@
+generic: 
+learing source URL: https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters
+
+	it provides you type safety
+	it provides you static type checking
+
+	example: void Add<T1, T2>(T1 x, T2 y)
+	
+	Note: to indicate a type parameter you can use any letter in angular bracket (< >)
+		- preferrably single letter in uppercase (not lowercase), like, T
+		- it can be a word, like, TInput
+		- if multiple type parameters are need, even numbering can used, such as, T1, T2 etc.
+
+Preferred letters:
+T -> Type
+E -> Element
+Add<E>(E[] arr)
+
+K -> Key,
+V -> Value
+
+	generic with constraints: type parameter with rules
+	where <type-parameter>:rules
+	where T:class -> T should be a reference type
+	where T:struct -> T should be a value type
+	where T:new() -> T should be a reference type as well as that type must have a default constructor
+	void Add<T,U>(T x, U y) where T:U -> T is of type U (T inherits from U)
+
+	a. method: can be overloaded
+	b. class
+	c. interface
+	d. delegate
