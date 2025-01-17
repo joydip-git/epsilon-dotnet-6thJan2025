@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\bin\Debug\net8.0\FurtherNewFeaturesInCSharp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\bin\Debug\net8.0\FurtherNewFeaturesInCSharp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\bin\Debug\net8.0\FurtherNewFeaturesInCSharp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\bin\Debug\net8.0\FurtherNewFeaturesInCSharp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\bin\Debug\net8.0\FurtherNewFeaturesInCSharp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\refint\FurtherNewFeaturesInCSharp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\FurtherNewFeaturesInCSharp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-9\NewFeaturesInCSharp\FurtherNewFeaturesInCSharp\obj\Debug\net8.0\ref\FurtherNewFeaturesInCSharp.dll

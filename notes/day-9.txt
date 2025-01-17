@@ -30,3 +30,55 @@ V -> Value
 	b. class
 	c. interface
 	d. delegate
+
+
+new features in C#:
+------------------------------
+learning source URLs:
+https://www.tutorialsteacher.com/csharp/csharp-version-history
+https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
+
+1. nullable value type [2.0]
+2. nullable reference type [8.0]
+3. null propagataor/null-conditional operator [6.0]
+4. static import (6.0)
+5. local function [7.0] and static local function [8.0]
+6. implcitly-typed local variable [3.0]
+7. object initializer [3.0]
+8. automatic or auto-implemented property [3.0]
+9. anonymous type [3.0]
+10. generic concept [2.0]
+11. auto-property initializer [6.0]
+12. string interpolation [6.0]
+13. nameof operator [6.0]
+14. optional argument (with default) [4.0]
+15. required keyword and members [11.0]
+
+16. extension methods
+17. lambda expression
+18. linq
+
+day-10, 11 and 12:
+delegate
+collections and generic collections
+threads
+file handling and serialization
+
+data access and ado.net ef
+
+day-13 til end:
+rest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
