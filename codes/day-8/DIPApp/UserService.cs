@@ -1,5 +1,6 @@
 namespace DIPApp
 {
+    //high-level module
     public class UserService
     {
         //pass reference of an instance of a class whihc implements IMessageService

@@ -2,6 +2,7 @@ using System.Net.Mail;
 
 namespace DIPApp
 {
+    //low-level module
     public class EmailService : IMessageService
     {
         private readonly SmtpClient smtpClient;

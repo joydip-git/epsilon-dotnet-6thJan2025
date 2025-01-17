@@ -1,5 +1,6 @@
 namespace DIPApp;
 
+//low-level module
 public class WhatsAppMessageService : IMessageService
 {
     public bool SendMessage(string message, string? email = null)
@@ -11,5 +12,4 @@ public class WhatsAppMessageService : IMessageService
     {
         return true;
     }
-
 }

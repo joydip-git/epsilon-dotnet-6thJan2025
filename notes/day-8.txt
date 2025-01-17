@@ -50,7 +50,11 @@ SOLID principle
 		[a derived class must be substitutable for its base class]
 
 	d. I => Interface Segregation Principle (ISP)
+		any client should not be forced to implement interfaces that they don't want to use. Instead of a large interface, it is preferred to create many small interfaces, based on groups of methods, each serving one purpose (module -> class)
+	
 	e. D => Dependency Inversion Principle (DIP)
+		high-level modules/classes should not depend upon the low-level modules/classes directly. First of all, both (high and low-level modules/classes) should reply upon abstractions. (this creates loose coupling between them). Finally, details should rely upon abstractions too.
+		Interface plays main role in providing that abstraction between both the parties and thus provides loose coupling between both the parties.
 
 
 UserService class instance depends on an instance of EmailService class

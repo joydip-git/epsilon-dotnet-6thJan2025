@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-8\\lspapp\\withoutlsp\\sqlfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|solutionrelative:withoutlsp\\sqlfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-8\\lspapp\\withoutlsp\\sqlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|solutionrelative:withoutlsp\\sqlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-8\\lspapp\\withoutlsp\\readonlysqlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|solutionrelative:withoutlsp\\readonlysqlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-8\\lspapp\\readonlysqlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91ACAB-CE06-F413-EC90-4B2F3307B81C}|LSPApp.csproj|solutionrelative:readonlysqlfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlFileManager.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\WithoutLSP\\SqlFileManager.cs",
+              "RelativeDocumentMoniker": "WithoutLSP\\SqlFileManager.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\WithoutLSP\\SqlFileManager.cs",
+              "RelativeToolTip": "WithoutLSP\\SqlFileManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:38:40.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlFile.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\WithoutLSP\\SqlFile.cs",
+              "RelativeDocumentMoniker": "WithoutLSP\\SqlFile.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\WithoutLSP\\SqlFile.cs",
+              "RelativeToolTip": "WithoutLSP\\SqlFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:37:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadOnlySqlFile.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\WithoutLSP\\ReadOnlySqlFile.cs",
+              "RelativeDocumentMoniker": "WithoutLSP\\ReadOnlySqlFile.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\WithoutLSP\\ReadOnlySqlFile.cs",
+              "RelativeToolTip": "WithoutLSP\\ReadOnlySqlFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:37:20.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadOnlySqlFile.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\ReadOnlySqlFile.cs",
+              "RelativeDocumentMoniker": "ReadOnlySqlFile.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-8\\LSPApp\\ReadOnlySqlFile.cs",
+              "RelativeToolTip": "ReadOnlySqlFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:36:33.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
