@@ -1,0 +1,49 @@
+task-1:
+an application to sort the customers based on user choice
+
+Create a library application with a class 
+		name: Customer
+		a. attributes - id, name, location, mobile
+		b. necessary default and parameterized constructor
+		c. properties 
+
+Create an executable application and in its main method...
+	1. create an collection of Customers
+	2. sort the Customers collection based on choice from user
+		1 => sort by customer id
+		2 => sort by customer name
+		3 => sort by location
+		4 => sort by mobile
+
+
+task-2:
+create an executable application to find out every word in a string and their occurrences and display the word and their occurrences in sorted manner (sorted alphabetically)
+
+sample input:
+CSharp is a programming language, I use CSharp for coding in any application.
+
+sample output:
+a:1
+any:1
+application:1
+coding:1
+for:1
+...
+CSharp:2
+
+
+code hint:
+-----------------------------
+
+//ask user enter a sentence
+//call getWordsAndCount and pass the sentence
+//get the return collection
+//print the way it is expected
+
+var result = GetWordsAndCount("");
+
+//local function
+static <Return Type> GetWordsAndCount(string sentence){
+	//code
+	//return collection of words and count for each word
+}
