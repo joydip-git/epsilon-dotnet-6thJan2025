@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\refint\CollectionsDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll

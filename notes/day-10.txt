@@ -1,0 +1,85 @@
+collections and generic collections:
+
+System.Collections
+----------------------------
+IEnumerable => IEnumeraror GetEnumerator()
+ICollection =>  Count property etc. (inherits from  IEnumerable)
+IList => Add, Remove etc. (inherits from ICollection and IEnumerable)
+
+ArrayList, Stack, Queue, HashTable, SortedList, LinkedList,...
+
+
+System.Collections.Generic
+---------------------------------------------
+IEnumerable<T> => IEnumeraror<T> GetEnumerator() (inherits from IEnumerable)
+ICollection<T> =>  Count property etc. (inherits from  IEnumerable<T>)
+IList<T> => Add, Remove etc. (inherits from ICollection<T> and IEnumerable<T>)
+
+List<T>, Stack<T>, Queue<T>, Dictionary<Tkey,Tvalue>, SosrtedList<Tkey,Tvalue>, HashSet<T>, .....
+
+class ArrayList
+{
+	private object[] arr = new object[4];
+	int index= 0;
+
+	Add(object x)
+	{
+		if(index == arr.length){
+			//create a new temp array
+			//copy all the values from the existing array to the new array
+			//now, create a fresh array with double the size of the previous array and assign to arr
+			//copy all the values from the temp array back to the new array
+		}
+		arr[index]=x;
+		index++;
+	}
+}
+
+
+Comparison between elements and IComparable/IComparable<T> interfaces:
+----------------------------------------------------------------------------
+namespace: System
+
+IComparable => int CompareTo(object? obj)
+generic version:
+IComparable<T> => int CompareTo(T? x)
+
+	x.CompareTo(y);
+	return type: int
+	value =>
+	 0:  both values are same 
+	>0: first is greater than second
+	<0: first is less than second
+
+this interface is implemented in all built-in types (except Object). such as, int, double, decimal, float, char, boolean, string etc.
+
+CompareTo method from IComparable/IComparable<T> interfaces is expected to be implemented in user-defined type, when yo are trying sort the user -defined type instances present in the List<T> class using Sort() method of it.
+
+Internalization of comparison => the logic when written inside an user-defined type (implementing CompareTo method from IComparable/IComparable<T> interface), is known as innternalization of comparison logic.
+
+Comparison between elements and IComparer/IComparer<T> interfaces:
+----------------------------------------------------------------------------
+namespace: System.Collections
+IComparer => int Compare(object? x, object? y);
+
+namespace: System.Collections.Generic
+generic version:
+IComparer<T> => int Compare(T? x, T? y);
+
+	<instance-of-class-implementing-IComparer/IComparer<T>>.Compare(x,y);
+	return type: int
+	value =>
+	 0:  both values are same 
+	>0: first is greater than second
+	<0: first is less than second
+
+
+Compare method from IComparer/IComparer<T> interfaces is expected to be implemented in separate type type, when you are trying sort the user-defined type instances present in the List<T> class using Sort() method of it, but no logic for comparison is written inside the user-defined type. in that case the instance of separate type with the logic of cpmparison between the user-defined type instances MUST be passed to the Sort() method of List<T> class.
+
+Externalization of comparison => the logic when written outside an user-defined type (NOT implementing CompareTo method from IComparable/IComparable<T> interface), but in a separate type (by implementing Compare method from IComparer/IComparer<T> interface) is known as externalization of comparison logic.
+
+
+
+
+
+

@@ -44,7 +44,7 @@ https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 4. static import (6.0)
 5. local function [7.0] and static local function [8.0]
 6. implcitly-typed local variable [3.0]
-7. object initializer [3.0]
+7. object initializer and collection initializer[3.0]
 8. automatic or auto-implemented property [3.0]
 9. anonymous type [3.0]
 10. generic concept [2.0]
@@ -58,16 +58,16 @@ https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 17. lambda expression
 18. linq
 
+
 day-10, 11 and 12:
-delegate
-collections and generic collections
-threads
-file handling and serialization
+On this page
 
 data access and ado.net ef
 
 day-13 til end:
 rest
+
+
 
 
 

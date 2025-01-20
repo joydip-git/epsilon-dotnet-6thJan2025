@@ -1,0 +1,12 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\bin\Debug\net8.0\PeronLibrary.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\bin\Debug\net8.0\PeronLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\bin\Debug\net8.0\PeronLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\refint\PeronLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\PeronLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\PeronLibrary\obj\Debug\net8.0\ref\PeronLibrary.dll
