@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="PeronLibrary">
+      <HintPath>..\..\PeronLibrary\bin\Debug\net8.0\PeronLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

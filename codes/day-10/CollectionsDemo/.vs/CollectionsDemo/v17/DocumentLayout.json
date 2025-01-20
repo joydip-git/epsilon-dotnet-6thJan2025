@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-10\\CollectionsDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A3C5A2F-DFE8-4AA5-AC7D-BAB76D635016}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-10\\collectionsdemo\\collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3C5A2F-DFE8-4AA5-AC7D-BAB76D635016}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E4CD001-1201-4473-BD11-CF0931998011}|ListItemSortingDemo\\ListItemSortingDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-10\\collectionsdemo\\listitemsortingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4CD001-1201-4473-BD11-CF0931998011}|ListItemSortingDemo\\ListItemSortingDemo.csproj|solutionrelative:listitemsortingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-10\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-10\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeToolTip": "CollectionsDemo\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:00:15.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PersonComparer.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-10\\CollectionsDemo\\ListItemSortingDemo\\PersonComparer.cs",
               "RelativeDocumentMoniker": "ListItemSortingDemo\\PersonComparer.cs",
@@ -30,18 +47,17 @@
               "RelativeToolTip": "ListItemSortingDemo\\PersonComparer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:24:13.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T06:24:13.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-10\\CollectionsDemo\\ListItemSortingDemo\\Program.cs",
               "RelativeDocumentMoniker": "ListItemSortingDemo\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-10\\CollectionsDemo\\ListItemSortingDemo\\Program.cs",
               "RelativeToolTip": "ListItemSortingDemo\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAzwE8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T06:21:14.047Z",
               "EditorCaption": ""

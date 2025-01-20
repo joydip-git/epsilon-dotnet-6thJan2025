@@ -13,3 +13,7 @@ D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDe
 D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
 D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
 D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\PeronLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\bin\Debug\net8.0\PeronLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.AssemblyReference.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-10\CollectionsDemo\CollectionsDemo\obj\Debug\net8.0\Collecti.634193E1.Up2Date

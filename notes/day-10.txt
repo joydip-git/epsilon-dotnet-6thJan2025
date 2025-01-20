@@ -78,6 +78,21 @@ Compare method from IComparer/IComparer<T> interfaces is expected to be implemen
 
 Externalization of comparison => the logic when written outside an user-defined type (NOT implementing CompareTo method from IComparable/IComparable<T> interface), but in a separate type (by implementing Compare method from IComparer/IComparer<T> interface) is known as externalization of comparison logic.
 
+Equality & Comparison:
+--------------------------------
+Equals()
+CompareTo
+Compare
+
+
+Dictionary 
+--------------------
+dictionary.Add(k,v);
+
+List<KeyValuePair<int,string>> items = new();
+
+items.Add(new KeyValuePair<int,string>{ Key = k, Value =v});
+
 
 
 
