@@ -9,3 +9,20 @@ anonymous delegate => a delegate referring to an anonymous method
 lambda expression
 lambda expression with expression body
 generic delegate and generic method
+
+usage:
+	event handling
+	threading
+	functional programming
+	....
+
+Extension Method (3.0):
+	without modifying the source code of a class, interface you can extend them by adding additional behaviors (methods) from outside the source code (not through inheritance)
+	note: you can additional non-static/instance methods ONLY, not static methods
+
+
+
+.net framework
+	generic collection classes were introduced in 2.0 version (2005), with many useful methods, such as, Add, Remove, RemoveAt, Insert, IndexOf etc.
+	MS wanted many more methods to be added in every generic collection class as part of C# 3.0 in 2007
+	first exetension method technique was invented and many extra methods (Where, OrderBy, Select and many more) were added as part of all collection classes through the extension method feature

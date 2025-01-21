@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\bin\Debug\net8.0\Delegate_ExtensionMethod_Demo.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\bin\Debug\net8.0\Delegate_ExtensionMethod_Demo.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\bin\Debug\net8.0\Delegate_ExtensionMethod_Demo.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\bin\Debug\net8.0\Delegate_ExtensionMethod_Demo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\bin\Debug\net8.0\Delegate_ExtensionMethod_Demo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\refint\Delegate_ExtensionMethod_Demo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\Delegate_ExtensionMethod_Demo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\Delegate_ExtensionMethod_Demo\obj\Debug\net8.0\ref\Delegate_ExtensionMethod_Demo.dll

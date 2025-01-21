@@ -1,0 +1,16 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\bin\Debug\net8.0\ComplexCalculationLibrary.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\bin\Debug\net8.0\ComplexCalculationLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\bin\Debug\net8.0\ComplexCalculationLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\refint\ComplexCalculationLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ref\ComplexCalculationLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\bin\Debug\net8.0\CalculationContractLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\bin\Debug\net8.0\CalculationContractLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexCalculationLibrary.csproj.AssemblyReference.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\ComplexCalculationLibrary\obj\Debug\net8.0\ComplexC.3BA1B2DE.Up2Date

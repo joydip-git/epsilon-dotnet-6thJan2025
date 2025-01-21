@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CalculationContractLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CalculationContractLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculationContractLibrary.dll": {}
+        }
+      },
+      "CalculationExtensionLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CalculationLibrary": "1.0.0",
+          "ComplexCalculationLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CalculationExtensionLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculationExtensionLibrary.dll": {}
+        }
+      },
+      "CalculationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CalculationContractLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CalculationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculationLibrary.dll": {}
+        }
+      },
+      "ComplexCalculationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CalculationContractLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ComplexCalculationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ComplexCalculationLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculationContractLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CalculationContractLibrary/CalculationContractLibrary.csproj",
+      "msbuildProject": "../CalculationContractLibrary/CalculationContractLibrary.csproj"
+    },
+    "CalculationExtensionLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CalculationExtensionLibrary/CalculationExtensionLibrary.csproj",
+      "msbuildProject": "../CalculationExtensionLibrary/CalculationExtensionLibrary.csproj"
+    },
+    "CalculationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CalculationLibrary/CalculationLibrary.csproj",
+      "msbuildProject": "../CalculationLibrary/CalculationLibrary.csproj"
+    },
+    "ComplexCalculationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ComplexCalculationLibrary/ComplexCalculationLibrary.csproj",
+      "msbuildProject": "../ComplexCalculationLibrary/ComplexCalculationLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CalculationExtensionLibrary >= 1.0.0",
+      "CalculationLibrary >= 1.0.0",
+      "ComplexCalculationLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joydip\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3.csproj",
+      "projectName": "NewFeaturesOfCSharp_Part3",
+      "projectPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3.csproj",
+      "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+      "outputPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationExtensionLibrary\\CalculationExtensionLibrary.csproj": {
+              "projectPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationExtensionLibrary\\CalculationExtensionLibrary.csproj"
+            },
+            "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationLibrary\\CalculationLibrary.csproj": {
+              "projectPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationLibrary\\CalculationLibrary.csproj"
+            },
+            "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\ComplexCalculationLibrary\\ComplexCalculationLibrary.csproj": {
+              "projectPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\ComplexCalculationLibrary\\ComplexCalculationLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculationExtensionLibrary/1.0.0": {
+        "dependencies": {
+          "CalculationLibrary": "1.0.0",
+          "ComplexCalculationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CalculationExtensionLibrary.dll": {}
+        }
+      },
+      "CalculationContractLibrary/1.0.0": {
+        "runtime": {
+          "CalculationContractLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CalculationLibrary/1.0.0": {
+        "dependencies": {
+          "CalculationContractLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CalculationLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ComplexCalculationLibrary/1.0.0": {
+        "dependencies": {
+          "CalculationContractLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ComplexCalculationLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculationExtensionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationContractLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComplexCalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

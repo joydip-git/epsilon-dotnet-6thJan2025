@@ -2,7 +2,11 @@
 {
     public delegate bool NumericalLogicInvoker(int x);
     public delegate bool StringLogicInvoker(string value);
+
+    //delegate bool Predicate<in T>(T obj);
     public delegate bool LogicInvoker<in T>(T value);
+
+    // delegate TResult Func<in T, out TResult>(T obj);
     //public delegate TResult LogicInvoker<in T, out TResult>(T value);
 
     public class Logic

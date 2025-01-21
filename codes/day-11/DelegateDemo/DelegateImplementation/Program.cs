@@ -2,7 +2,7 @@
 
 class Program
 {
-    static List<string> Filter(List<string> input, StringLogicInvoker logicInvoker)
+    static IEnumerable<string> Filter(List<string> input, StringLogicInvoker logicInvoker)
     {
         List<string> result = [];
         if (input != null && input.Count > 0)
@@ -17,7 +17,7 @@ class Program
         return result;
     }
 
-    static List<int> Filter(List<int> input, NumericalLogicInvoker logicInvoker)
+    static IEnumerable<int> Filter(List<int> input, NumericalLogicInvoker logicInvoker)
     {
         List<int> result = [];
         if (input != null && input.Count > 0)
@@ -33,7 +33,7 @@ class Program
         return result;
     }
 
-    static List<T> Filter<T>(List<T> input, LogicInvoker<T> logicInvoker)
+    static IEnumerable<T> Filter<T>(List<T> input, LogicInvoker<T> logicInvoker)
     {
         List<T> result = [];
         if (input != null && input.Count > 0)
@@ -63,7 +63,7 @@ class Program
         //a. the source of data
         //b. the delegate, with reference to the method, whose logic should be applied on every value in that source of data
         var evenNumbers = Filter(numbers, evenDel);
-        if (evenNumbers.Count > 0)
+        if (evenNumbers.Count()>0)
         {
             Console.WriteLine("printing even numbers\n");
             foreach (var item in evenNumbers)
@@ -78,7 +78,7 @@ class Program
         LogicInvoker<int> oddDel = new(Logic.IsOdd);
 
         var oddNumbers = Filter(numbers, oddDel);
-        if (oddNumbers.Count > 0)
+        if (oddNumbers.Count() > 0)
         {
             Console.WriteLine("\nprinting odd numbers\n");
             foreach (var item in oddNumbers)
@@ -114,7 +114,7 @@ class Program
         LogicInvoker<int> lessThanFiveDel = (x) => x < 5;
 
         var lessThanFiveNumbers = Filter(numbers, lessThanFiveDel);
-        if (lessThanFiveNumbers.Count > 0)
+        if (lessThanFiveNumbers.Count() > 0)
         {
             Console.WriteLine("\nprinting less than five numbers\n");
             foreach (var item in lessThanFiveNumbers)
@@ -135,7 +135,7 @@ class Program
         LogicInvoker<string> filterByN= (name) => name.Contains<char>('n');
 
         var peopleWithN = Filter(people, filterByN);
-        if (peopleWithN.Count > 0)
+        if (peopleWithN.Count() > 0)
         {
             Console.WriteLine("\nprinting people with 'n' in their name\n");
             foreach (var item in peopleWithN)

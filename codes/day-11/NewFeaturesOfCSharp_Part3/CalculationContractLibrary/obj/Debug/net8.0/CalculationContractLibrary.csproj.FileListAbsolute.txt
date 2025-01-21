@@ -1,0 +1,12 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\bin\Debug\net8.0\CalculationContractLibrary.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\bin\Debug\net8.0\CalculationContractLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\bin\Debug\net8.0\CalculationContractLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\refint\CalculationContractLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\CalculationContractLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\NewFeaturesOfCSharp_Part3\CalculationContractLibrary\obj\Debug\net8.0\ref\CalculationContractLibrary.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E55C4F-0E32-4FC6-8586-BFF5E415B6DE}|NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\newfeaturesofcsharp_part3\\newfeaturesofcsharp_part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E55C4F-0E32-4FC6-8586-BFF5E415B6DE}|NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3.csproj|solutionrelative:newfeaturesofcsharp_part3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525F33D5-B423-4EF4-A523-FD5A06B34D71}|CalculationExtensionLibrary\\CalculationExtensionLibrary.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\newfeaturesofcsharp_part3\\calculationextensionlibrary\\calculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525F33D5-B423-4EF4-A523-FD5A06B34D71}|CalculationExtensionLibrary\\CalculationExtensionLibrary.csproj|solutionrelative:calculationextensionlibrary\\calculationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A240F8B-6248-4EB5-A65D-3276BED8D181}|CalculationLibrary\\CalculationLibrary.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\newfeaturesofcsharp_part3\\calculationlibrary\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A240F8B-6248-4EB5-A65D-3276BED8D181}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2E0926-38A4-4E96-A0A9-DADFF883D544}|ComplexCalculationLibrary\\ComplexCalculationLibrary.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\newfeaturesofcsharp_part3\\complexcalculationlibrary\\complexcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2E0926-38A4-4E96-A0A9-DADFF883D544}|ComplexCalculationLibrary\\ComplexCalculationLibrary.csproj|solutionrelative:complexcalculationlibrary\\complexcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAF859F-E48B-481C-8B37-C17EC3CAC675}|CalculationContractLibrary\\CalculationContractLibrary.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\newfeaturesofcsharp_part3\\calculationcontractlibrary\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAF859F-E48B-481C-8B37-C17EC3CAC675}|CalculationContractLibrary\\CalculationContractLibrary.csproj|solutionrelative:calculationcontractlibrary\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationContractLibrary\\ICalculator.cs",
+              "RelativeDocumentMoniker": "CalculationContractLibrary\\ICalculator.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationContractLibrary\\ICalculator.cs",
+              "RelativeToolTip": "CalculationContractLibrary\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:36:06.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplexCalculator.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\ComplexCalculationLibrary\\ComplexCalculator.cs",
+              "RelativeDocumentMoniker": "ComplexCalculationLibrary\\ComplexCalculator.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\ComplexCalculationLibrary\\ComplexCalculator.cs",
+              "RelativeToolTip": "ComplexCalculationLibrary\\ComplexCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:31:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleCalculator.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationLibrary\\SimpleCalculator.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\SimpleCalculator.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationLibrary\\SimpleCalculator.cs",
+              "RelativeToolTip": "CalculationLibrary\\SimpleCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:24:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3\\Program.cs",
+              "RelativeDocumentMoniker": "NewFeaturesOfCSharp_Part3\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\NewFeaturesOfCSharp_Part3\\Program.cs",
+              "RelativeToolTip": "NewFeaturesOfCSharp_Part3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:22:24.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationExtension.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationExtensionLibrary\\CalculationExtension.cs",
+              "RelativeDocumentMoniker": "CalculationExtensionLibrary\\CalculationExtension.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\NewFeaturesOfCSharp_Part3\\CalculationExtensionLibrary\\CalculationExtension.cs",
+              "RelativeToolTip": "CalculationExtensionLibrary\\CalculationExtension.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:17:08.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
