@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|solutionrelative:delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegatedemo\\documentdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\documentdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegatedemo\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegateimplementation\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|solutionrelative:delegateimplementation\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DocumentManager.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentManager.cs",
-              "RelativeDocumentMoniker": "DelegateDemo\\DocumentManager.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentManager.cs",
-              "RelativeToolTip": "DelegateDemo\\DocumentManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAzwAoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T05:00:30.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DocumentDelegate.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentDelegate.cs",
-              "RelativeDocumentMoniker": "DelegateDemo\\DocumentDelegate.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentDelegate.cs",
-              "RelativeToolTip": "DelegateDemo\\DocumentDelegate.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Title": "Logic.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateImplementation\\Logic.cs",
+              "RelativeDocumentMoniker": "DelegateImplementation\\Logic.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateImplementation\\Logic.cs",
+              "RelativeToolTip": "DelegateImplementation\\Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:55:18.662Z",
+              "WhenOpened": "2025-01-21T06:25:03.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\Program.cs",
-              "RelativeDocumentMoniker": "DelegateDemo\\Program.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\Program.cs",
-              "RelativeToolTip": "DelegateDemo\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateImplementation\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateImplementation\\Program.cs",
+              "RelativeToolTip": "DelegateImplementation\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAHQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:36:56.752Z",
+              "WhenOpened": "2025-01-21T06:11:52.26Z",
               "EditorCaption": ""
             }
           ]

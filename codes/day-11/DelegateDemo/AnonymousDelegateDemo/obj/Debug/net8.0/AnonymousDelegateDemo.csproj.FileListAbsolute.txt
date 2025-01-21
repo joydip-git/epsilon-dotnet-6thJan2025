@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\bin\Debug\net8.0\AnonymousDelegateDemo.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\bin\Debug\net8.0\AnonymousDelegateDemo.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\bin\Debug\net8.0\AnonymousDelegateDemo.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\bin\Debug\net8.0\AnonymousDelegateDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\bin\Debug\net8.0\AnonymousDelegateDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\refint\AnonymousDelegateDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\AnonymousDelegateDemo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\AnonymousDelegateDemo\obj\Debug\net8.0\ref\AnonymousDelegateDemo.dll

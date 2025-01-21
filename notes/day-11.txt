@@ -1,4 +1,11 @@
 delegate:
 	stores reference to a method or methods
 	can be passed to another method, so that the other method can call back the method referred by the delegate -> callback mechanism
-	
+	provides type safety
+	provides functional programing foundation
+
+anonymous method => method without a name [used to create a logic inside a function body without any name, to be referred by a delegate]
+anonymous delegate => a delegate referring to an anonymous method
+lambda expression
+lambda expression with expression body
+generic delegate and generic method
