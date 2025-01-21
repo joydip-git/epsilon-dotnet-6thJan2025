@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\bin\Debug\net8.0\DelegateDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\refint\DelegateDemo.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\DelegateDemo.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-11\DelegateDemo\DelegateDemo\obj\Debug\net8.0\ref\DelegateDemo.dll

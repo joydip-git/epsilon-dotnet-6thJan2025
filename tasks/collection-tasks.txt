@@ -36,7 +36,7 @@ code hint:
 -----------------------------
 
 //ask user enter a sentence
-//call getWordsAndCount and pass the sentence
+//call GetWordsAndCount and pass the sentence
 //get the return collection
 //print the way it is expected
 

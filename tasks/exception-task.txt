@@ -1,4 +1,4 @@
-An applocation with custom exception class "MaximumSpeedLimitCrossedException" to throw exception whenever a vehicle's speed crosses the maximum limit
+An application with custom exception class "MaximumSpeedLimitCrossedException" to throw exception whenever a vehicle's speed crosses the maximum limit
 
 Create a class Vehicle
 Vehicle class must have following 

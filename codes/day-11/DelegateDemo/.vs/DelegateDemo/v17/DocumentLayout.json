@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegatedemo\\documentdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\documentdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegatedemo\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BD51CF-DCCB-4645-90D3-9CE34A5D14F8}|DelegateDemo\\DelegateDemo.csproj|solutionrelative:delegatedemo\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentManager.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentManager.cs",
+              "RelativeDocumentMoniker": "DelegateDemo\\DocumentManager.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentManager.cs",
+              "RelativeToolTip": "DelegateDemo\\DocumentManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:00:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentDelegate.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentDelegate.cs",
+              "RelativeDocumentMoniker": "DelegateDemo\\DocumentDelegate.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\DocumentDelegate.cs",
+              "RelativeToolTip": "DelegateDemo\\DocumentDelegate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:55:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateDemo\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateDemo\\Program.cs",
+              "RelativeToolTip": "DelegateDemo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:36:56.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+delegate:
+	stores reference to a method or methods
+	can be passed to another method, so that the other method can call back the method referred by the delegate -> callback mechanism
+	
