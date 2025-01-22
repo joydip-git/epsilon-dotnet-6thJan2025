@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA1B43F9-87CC-4F98-A801-D5187D257861}|Delegate_ExtensionMethod_Demo\\Delegate_ExtensionMethod_Demo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegate_extensionmethod_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA1B43F9-87CC-4F98-A801-D5187D257861}|Delegate_ExtensionMethod_Demo\\Delegate_ExtensionMethod_Demo.csproj|solutionrelative:delegate_extensionmethod_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|solutionrelative:delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B43F9-87CC-4F98-A801-D5187D257861}|Delegate_ExtensionMethod_Demo\\Delegate_ExtensionMethod_Demo.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegate_extensionmethod_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1B43F9-87CC-4F98-A801-D5187D257861}|Delegate_ExtensionMethod_Demo\\Delegate_ExtensionMethod_Demo.csproj|solutionrelative:delegate_extensionmethod_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B41917C-AF40-41FE-A1B4-65E98F4625F6}|DelegateImplementation\\DelegateImplementation.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-11\\delegatedemo\\delegateimplementation\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\Delegate_ExtensionMethod_Demo\\Program.cs",
               "RelativeDocumentMoniker": "Delegate_ExtensionMethod_Demo\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\Delegate_ExtensionMethod_Demo\\Program.cs",
               "RelativeToolTip": "Delegate_ExtensionMethod_Demo\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T07:49:25.767Z",
               "EditorCaption": ""
@@ -47,18 +47,17 @@
               "RelativeToolTip": "DelegateImplementation\\Logic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:25:03.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T06:25:03.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateImplementation\\Program.cs",
               "RelativeDocumentMoniker": "DelegateImplementation\\Program.cs",
               "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-11\\DelegateDemo\\DelegateImplementation\\Program.cs",
               "RelativeToolTip": "DelegateImplementation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T06:11:52.26Z",
               "EditorCaption": ""

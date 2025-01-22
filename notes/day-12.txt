@@ -1,0 +1,44 @@
+collection type
+	original methods (2.0)
+	many extension methods (3.0)
+
+List<T>
+	filter
+	sort
+	group
+	join
+	etc.
+
+comparison:
+	internalization: using Sort() method and IComparable<T> interface
+	a. implement IComparable<T> in T [int CompareTo(T? obj);]
+	b. call list-of-T.Sort() method
+
+	externalization:
+	A. using Sort() method and IComparer<T> interface
+	a. implement IComparer<T> in another (TComparer) class [int Compare(T? x, T? y);]
+	b. create an instance of that another class (TComparer)
+	c. call list-of-T.Sort() method and pass instance of that another class to the Sort method.
+
+	B. using Sort() method and Comparison<T> delegate
+	a. create an anonymous method referred by Comparison<T> delegate
+	b. call list-of-T.Sort() method and pass instance of that delegate
+
+	C. using extension method: OrderBy/OrderByDescending and Func<in T, out TResult> delegate
+	a. create an anonymous method referred by Func<in T, out TResult> delegate
+	b. call list-of-T.OrderBy()/OrderByDescending() method and pass instance of that delegate
+
+LINQ (Language INtegrated Query) => mechanism which is built at the top of the programming language features such as, OOP concepts, delegates, generic and collection along with new features in C#, to perform regular operations such as, filtration,  sorting, grouping, joining etc. on runtime collections, so that a developer can focus on logic rather than low level jobs (how to shuffle while sorting etc.)
+
+LINQ can be written in 
+	a. Method query syntax style: extension methods of collections are used
+	b. Query Operator syntax style: operators (clauses) equivalent to the extension methods are used
+
+Note: 
+a. in "Query Operator syntax style", we do not have every operator equivalent to every extension method, such as, ToList(), Max(), Min(), Avrage() etc.
+b. the query in both cases is not executed when it is created by default. This behavior is known as Deferred Execution.
+c. the query will be executed when you want to iterate through a result set or want to call extension methods such as ToList() to create a result set. This is known as Immediate Execution.
+
+
+
+

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4534E080-F19B-4941-B095-2653DFFF1546}|LINQApp\\LINQApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-12\\linqapp\\linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4534E080-F19B-4941-B095-2653DFFF1546}|LINQApp\\LINQApp.csproj|solutionrelative:linqapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4534E080-F19B-4941-B095-2653DFFF1546}|LINQApp\\LINQApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-12\\linqapp\\linqapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4534E080-F19B-4941-B095-2653DFFF1546}|LINQApp\\LINQApp.csproj|solutionrelative:linqapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4534E080-F19B-4941-B095-2653DFFF1546}|LINQApp\\LINQApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-12\\linqapp\\linqapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4534E080-F19B-4941-B095-2653DFFF1546}|LINQApp\\LINQApp.csproj|solutionrelative:linqapp\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\LINQApp\\Department.cs",
+              "RelativeDocumentMoniker": "LINQApp\\Department.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\LINQApp\\Department.cs",
+              "RelativeToolTip": "LINQApp\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:17:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\LINQApp\\Person.cs",
+              "RelativeDocumentMoniker": "LINQApp\\Person.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\LINQApp\\Person.cs",
+              "RelativeToolTip": "LINQApp\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:47:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\LINQApp\\Program.cs",
+              "RelativeDocumentMoniker": "LINQApp\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-12\\LINQApp\\LINQApp\\Program.cs",
+              "RelativeToolTip": "LINQApp\\Program.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:33:19.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\bin\Debug\net8.0\LINQApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\bin\Debug\net8.0\LINQApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\bin\Debug\net8.0\LINQApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\bin\Debug\net8.0\LINQApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\bin\Debug\net8.0\LINQApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\refint\LINQApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\LINQApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\LINQApp\LINQApp\obj\Debug\net8.0\ref\LINQApp.dll
