@@ -1,0 +1,15 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\bin\Debug\net8.0\TaskApp.exe
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\bin\Debug\net8.0\TaskApp.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\bin\Debug\net8.0\TaskApp.runtimeconfig.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\bin\Debug\net8.0\TaskApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\bin\Debug\net8.0\TaskApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\refint\TaskApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\TaskApp.genruntimeconfig.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-12\ThreadingDemo\TaskApp\obj\Debug\net8.0\ref\TaskApp.dll

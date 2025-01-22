@@ -40,5 +40,21 @@ b. the query in both cases is not executed when it is created by default. This b
 c. the query will be executed when you want to iterate through a result set or want to call extension methods such as ToList() to create a result set. This is known as Immediate Execution.
 
 
+Threading:
+synchronous operation
+	PrintDocument()
+	EditDocument()
+
+
+Thread => 
+in a thread you can run any of the following 2 types of method:
+	a function which does not accept anything and returns nothing
+	a function which does accept one argument (of type Object) and returns nothing
+
+when you create a thread you need pass reference to any of the above mentioned type of functions to the constructor of the Thread class via any of the following two delegates: 
+
+a. ThreadStart delegate => can refer to a function which does not accept anything and returns nothing
+b. ParameterizedThreadStart delegate => can refer to a function which does accept one argument (of type Object) and returns nothing
+
 
 

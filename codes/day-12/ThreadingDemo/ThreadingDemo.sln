@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo", "ThreadingDemo\ThreadingDemo.csproj", "{2FDC9077-3CFE-42A8-B1C5-FE472A80E2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp", "TaskApp\TaskApp.csproj", "{0D9ED383-DA34-4DDC-9C2E-31A6C1741144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDC9077-3CFE-42A8-B1C5-FE472A80E2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDC9077-3CFE-42A8-B1C5-FE472A80E2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDC9077-3CFE-42A8-B1C5-FE472A80E2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDC9077-3CFE-42A8-B1C5-FE472A80E2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9ED383-DA34-4DDC-9C2E-31A6C1741144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9ED383-DA34-4DDC-9C2E-31A6C1741144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9ED383-DA34-4DDC-9C2E-31A6C1741144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9ED383-DA34-4DDC-9C2E-31A6C1741144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
