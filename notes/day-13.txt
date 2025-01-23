@@ -1,0 +1,66 @@
+web applications:
+
+web page: 	  HTML
+web page styling: CSS
+web page code:    JavaScript
+
+Web Server: host for web apps
+production web servers: 
+	a. Internet Information Services (IIS)
+	b. Apache Tomcat
+	c. NGINX
+	d. Vercel
+	etc.
+
+development-mode web server or application development server:
+	hosts a particular web app during development
+	it uses port number different from 80
+	many, such as, Live Server, IIS Express etc.
+
+Live Server: can added as plugin in VS Code
+Hot Module Replacement: during development many app server offers facility to load the latest version of the application content in the browser by replacing the older version. (HMR)
+
+script tag => 
+		
+	to write JS code inside HTML file
+	to connect/link a JS file with HTML file using its "src" attribute
+
+CSS:
+	background-color:'blue'
+	font-size:bold
+	color:
+
+	css-property-name:value
+
+	a. in-line styling [using "style" attribute of any element]
+
+	b. out-line styling 
+		i. using "style" tag of HTML, written inside either head of body element or both
+		ii. using separate CSS file and connecting the CSS file with HTML file by "link" tag
+		note: link tag can be used NOT ONLY to link css files, but other types of files too
+
+	1. Element selector
+		element-name1, element-name2,... { set of styles }
+	2. id selector
+		#id-of-element1, #id-of-element2,...{ set of styles }
+	in these two cases, you have to plan/decide the elements on which the set of styles to be applied, before you start creating those set of styles
+
+	if you just want to create a set of styles, without deciding/mentioning the names of elements of ids of elements from the beginning, you can use
+	3. class selector
+		.class-name { set of styles }
+	now use "class" attribute of any HTML element to mention the name of the css class
+
+	note: 
+		an element can apply more than one css class. 
+		while mentioning multiple CSS class names, use a single space to separate them
+
+
+HTML:
+--------------
+tags -> self-closing tag/empty tag
+meta tag 
+	charset attribute -> which type of encoding format is used to encode HTML file
+
+design related elements/tags
+	=> block element
+	=> inline element

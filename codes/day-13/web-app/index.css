@@ -1,0 +1,45 @@
+/*
+h2,
+button,
+input[type=text] {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-radius: 5px;
+}
+*/
+
+body {
+    background-color: aqua;
+}
+
+.align-style {
+    text-align: center;
+}
+
+.border-radius-style {
+    border-radius: 5px;
+}
+
+.button-style {
+    background-color: blueviolet;
+    border-color: blueviolet;
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding: 5px;
+}
+
+#headerElement {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#footerElement,
+#txtValue {
+    background-color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
