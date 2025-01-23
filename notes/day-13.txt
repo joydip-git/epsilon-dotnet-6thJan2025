@@ -64,3 +64,59 @@ meta tag
 design related elements/tags
 	=> block element
 	=> inline element
+
+
+JS issues:
+----------------------------
+its is loosely typed language, i.e. a variable can store any value at any point of time
+limited number of data types
+there is no static type checking
+there is no strict data typing
+this is Object-based, NOT object-oriented programming language
+note: OOP like featurs are present through prototype-based programming
+
+Server-side framework:
+Microsoft
+	COM framework =>  ASP (Active Server Pages) => *.asp
+	.net framework => ASP.NET (C#) => *.aspx/*.aspx.cs
+
+	the aspx page request is processed by a dll [used by web server] => ISAPI dll
+
+Sun Microsystem:
+	JSP-Servlet: Java => *.jsp
+
+.NET 
+	ASP.NET Core to create web applications
+	a. web page applications
+	b. MVC architecture based web page application
+	c. RESTful API application (ASP.NET Core Web API)
+	etc.
+
+
+
+Razor App 	Blazor App 	ASP.NET Core MVC  	ASP.NET Core Web API
+			ASP.NET Core Web App
+
+any ASP.NET Core application looks like a console application and runs like a desktop based app
+	web host
+	built-in web server
+	....
+
+then depending on further configuration they can behave accordingly
+
+Model-View-Controller
+	View => web design
+	Controller => module which connects Model and View
+	Model => write business/data-acces logic
+
+https://localhost:5005/home/index
+
+controller => home
+action => index
+
+
+
+
+
+
+

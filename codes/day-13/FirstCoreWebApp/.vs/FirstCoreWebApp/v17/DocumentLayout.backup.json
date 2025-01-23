@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-13\\firstcorewebapp\\firstcorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|solutionrelative:firstcorewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-13\\firstcorewebapp\\firstcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|solutionrelative:firstcorewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-13\\firstcorewebapp\\firstcorewebapp\\firstcorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|solutionrelative:firstcorewebapp\\firstcorewebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-13\\firstcorewebapp\\firstcorewebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D0A7418-5D68-4EBD-AC7D-C045F9E10100}|FirstCoreWebApp\\FirstCoreWebApp.csproj|solutionrelative:firstcorewebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstCoreWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstCoreWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:42:41.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstCoreWebApp",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\FirstCoreWebApp.csproj",
+              "RelativeDocumentMoniker": "FirstCoreWebApp\\FirstCoreWebApp.csproj",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\FirstCoreWebApp.csproj",
+              "RelativeToolTip": "FirstCoreWebApp\\FirstCoreWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T07:41:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstCoreWebApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstCoreWebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T07:23:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstCoreWebApp\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\Program.cs",
+              "RelativeToolTip": "FirstCoreWebApp\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:01:31.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
