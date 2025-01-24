@@ -76,6 +76,7 @@ this is Object-based, NOT object-oriented programming language
 note: OOP like featurs are present through prototype-based programming
 
 Server-side framework:
+------------------------------
 Microsoft
 	COM framework =>  ASP (Active Server Pages) => *.asp
 	.net framework => ASP.NET (C#) => *.aspx/*.aspx.cs
@@ -109,10 +110,16 @@ Model-View-Controller
 	Controller => module which connects Model and View
 	Model => write business/data-acces logic
 
+https://localhost:5005/ => default url
+
 https://localhost:5005/home/index
+https://localhost:5005/home/hello/joydip
 
 controller => home
 action => index
+
+
+
 
 
 

@@ -28,3 +28,6 @@ D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebA
 D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\obj\Debug\net8.0\FirstCoreWebApp.pdb
 D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\obj\Debug\net8.0\FirstCoreWebApp.genruntimeconfig.cache
 D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\obj\Debug\net8.0\ref\FirstCoreWebApp.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\bin\Debug\net8.0\log.txt
+D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\obj\Debug\net8.0\FirstCoreWebApp.RazorAssemblyInfo.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\obj\Debug\net8.0\FirstCoreWebApp.RazorAssemblyInfo.cs

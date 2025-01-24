@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-14\\dependencyinjectionapp\\dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-14\\dependencyinjectionapp\\dependencyinjectionapp\\productbusinesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\productbusinesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-14\\dependencyinjectionapp\\dependencyinjectionapp\\productdataaccesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\productdataaccesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-14\\dependencyinjectionapp\\dependencyinjectionapp\\idataaccesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A9D2E9-D123-408F-8421-54E324885CBF}|DependencyInjectionApp\\DependencyInjectionApp.csproj|solutionrelative:dependencyinjectionapp\\idataaccesscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataAccessComponent.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\IDataAccessComponent.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\IDataAccessComponent.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\IDataAccessComponent.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\IDataAccessComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:10:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductBusinessComponent.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\ProductBusinessComponent.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\ProductBusinessComponent.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\ProductBusinessComponent.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\ProductBusinessComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:06:47.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDataAccessComponent.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\ProductDataAccessComponent.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\ProductDataAccessComponent.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\ProductDataAccessComponent.cs",
+              "RelativeToolTip": "DependencyInjectionApp\\ProductDataAccessComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:05:41.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionApp\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-14\\DependencyInjectionApp\\DependencyInjectionApp\\Program.cs*",
+              "RelativeToolTip": "DependencyInjectionApp\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T05:01:39.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

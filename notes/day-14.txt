@@ -1,0 +1,169 @@
+Adding a nuget package:
+
+Using solution explorer ->
+	a. right click on csproj file
+	b. select option "Manage NuGet packages" which open NuGet Package Manager dialog box
+	c. Search for nuget package under "browse" tab
+	d. add that package
+
+Using Package Manager Console (from View > Other Windows > Package Manager Console)
+	a. just type the package name that you want to install with Install-package command
+	ex: PM>NuGet\Install-Package <package-name> -Version <v-no>
+
+Using DotNet CLI (dotnet.exe)
+>dotnet add package <package-name> --version <v-no>
+
+Using *.csproj file directly
+	a. in solution explorer, click the project name to open the *.csproj file
+	b. add an <ItemGroup> element
+	c. in that element use the <PackageReference> child element
+	ex:
+	<ItemGroup>
+  		<PackageReference Include="<packge-name>" 
+				  Version="<v-no>" />
+	</ItemGroup>
+
+Services: the types which are required to be dependency injected
+LifeTime of any service instance:
+
+	a. Transient: for every request/call there will be single instance of a serviec created
+	
+	b. Scoped: single instance for entire duration of the request/all calls related to that instance for a single client
+ 
+	c. Singleton: single instance of the service for all calls from multiple clients
+
+
+class A
+{
+	public A AddScoped()
+	{
+		return this;
+	}
+	
+}
+
+Middleware:
+	a method with logic which will be applied on HttpRequest and then onec done, the HttpRequest will be forwarded to next middleware
+
+signature: public Task <Middleware-method-name>(HttpContext context)
+
+this middleware will be invoked through a delegate from WebApplication, named, RequestDelegate, hence the method signature:
+
+RequestDelegate => public delegate Task RequestDelegate(HttpContext context);
+
+
+to apply the middleware method in the request-response pipeline managed by WebApplication, you need to create an extension method for WebApplication class, which will help to instantiate the middleware class and then call the middleware method on the pipeline.
+
+the extension method target should NOT directly be WebApplication class, rather than, builder of it -> WebApplicationBuilder class.
+Since WebApplicationBuilder class implements IApplicationBuilder interface, you can add that extension method via that interface.
+
+The extension method should return the IApplicationBuilder, i.e. the extension should be an additive one.
+
+ViewEngine => take a view (*.cshtml razor file) and create an HTML file out of it
+base class "Controller" (from which your controller inherits), has a method "View()", which produces an instance of "ViewResult" class.
+this instance is then handed over to the View Engine, which creates pure HTML from that View.
+
+the ViewResult class implements the interface IActionResult (represents result or return type of an action method)
+
+also there is NotFound method, Problem method etc. from Controller which produces NotFoundResult, ObjectResult etc. who also implements IActionResult
+
+note: generally when the View() method is called, the CSHTML file with same is name is expected to be present.
+
+then web server will return that HTML page.
+
+CSHTML (razor file)
+------------------------------
+@using FirstCoreWebApp.Models
+<html lang="en">
+<head>
+    <title>Person Detail</title>
+</head>
+<body>
+    <h2>Person Information:</h2>
+    @{
+        var person = new Person { Id = 1, Name = "joy", Salary = 0 };
+        <span>
+            @person.Name
+        </span>
+    }
+</body>
+</html>
+
+converted to pure HTML by view engine
+------------------------------------------------
+<html lang="en">
+<head>
+    <title>Person Detail</title>
+</head>
+<body>
+    <h2>Person Information:</h2>
+  
+        <span>
+            joy
+        </span>
+</body>
+</html>
+
+CSHTML:
+@using FirstCoreWebApp.Models
+@model Person
+
+<html lang="en">
+<head>
+    <title>Person Detail</title>
+</head>
+<body>
+    <h2>Person Information:</h2>
+    <div>
+        <span>Name: @Model.Name </span>
+        <br />
+        <span>Id: @Model.Id </span>
+        <br/>
+        <span>Salary: @Model.Salary </span>
+    </div>
+</body>
+</html>
+
+
+converted to HTML by view engine:
+
+<html lang="en">
+<head>
+    <title>Person Detail</title>
+</head>
+<body>
+    <h2>Person Information:</h2>
+    <div>
+        <span>Name: joydip </span>
+        <br />
+        <span>Id: 1 </span>
+        <br/>
+        <span>Salary: 3000 </span>
+    </div>
+
+<!-- Visual Studio Browser Link -->
+<script type="text/javascript" src="/_vs/browserLink" async="async" id="__browserLink_initializationData" data-requestId="d2c38996b56146c2b1c08a3070bf0c75" data-requestMappingFromServer="false" data-connectUrl="http://localhost:64600/5e90ff2b4b17421ea24f3009f8c4df3f/browserLink"></script>
+<!-- End Browser Link -->
+<script src="/_framework/aspnetcore-browser-refresh.js"></script></body>
+</html>
+
+
+Views
+	- storngly typed view: it can receive a particular type of data from the controller action as mentioned in the view template using @model
+	to access the model data in the view, use Model property
+	- loose view: it can receive any type of data from the controller action
+
+Model binding:
+
+error for web app without suppor for views
+{
+  "type": "https://tools.ietf.org/html/rfc9110#section-15.6.1",
+  "title": "An error occurred while processing your request.",
+  "status": 500,
+  "detail": "No service for type 'Microsoft.AspNetCore.Mvc.ViewFeatures.ITempDataDictionaryFactory' has been registered.",
+  "traceId": "00-3eabc06fe8588ebd07896c156f42bebb-fa4cb5ecf581524c-00"
+}
+	
+
+
+	

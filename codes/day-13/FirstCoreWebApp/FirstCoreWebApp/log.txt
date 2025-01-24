@@ -1,0 +1,79 @@
+﻿Request path: /
+Logged at: 1/24/2025 12:15:38 PM
+Request path: /favicon.ico
+Logged at: 1/24/2025 12:15:38 PM
+Request path: /home/hello
+Logged at: 1/24/2025 12:15:54 PM
+Request path: /home/hello/joydip
+Logged at: 1/24/2025 12:16:00 PM
+Request path: /home/index
+Logged at: 1/24/2025 12:16:05 PM
+Request path: /
+Logged at: 1/24/2025 12:28:52 PM
+Request path: /home/hello/venkatesh
+Logged at: 1/24/2025 12:29:04 PM
+Request path: /home/index
+Logged at: 1/24/2025 12:29:09 PM
+Request path: /
+Logged at: 1/24/2025 12:56:56 PM
+Request path: /
+Logged at: 1/24/2025 12:57:37 PM
+Request path: /home/index
+Logged at: 1/24/2025 12:57:48 PM
+Request path: /home/hello/karthik
+Logged at: 1/24/2025 12:57:58 PM
+Request path: /home/person/get/1
+Logged at: 1/24/2025 12:58:09 PM
+Request path: /
+Logged at: 1/24/2025 1:01:19 PM
+Request path: /person/get/1
+Logged at: 1/24/2025 1:01:31 PM
+Request path: /person/get/1
+Logged at: 1/24/2025 1:03:04 PM
+Request path: /
+Logged at: 1/24/2025 1:03:18 PM
+Request path: /person/get/2
+Logged at: 1/24/2025 1:03:23 PM
+Request path: /
+Logged at: 1/24/2025 1:08:29 PM
+Request path: /home/index
+Logged at: 1/24/2025 1:08:33 PM
+Request path: /home/hello/joydip
+Logged at: 1/24/2025 1:08:38 PM
+Request path: /person/get/1
+Logged at: 1/24/2025 1:08:42 PM
+Request path: /
+Logged at: 1/24/2025 1:39:39 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:39:57 PM
+Exception: System.InvalidOperationException: No service for type 'Microsoft.AspNetCore.Mvc.ViewFeatures.ITempDataDictionaryFactory' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.AspNetCore.Mvc.Controller.get_TempData()
+   at Microsoft.AspNetCore.Mvc.Controller.View(String viewName, Object model)
+   at FirstCoreWebApp.Controllers.PersonController.Index(Nullable`1 id) in D:\training\epsilon-dotnet-6thJan2025\codes\day-13\FirstCoreWebApp\FirstCoreWebApp\Controllers\PersonController.cs:line 31, 
+,Logged At: 1/24/2025 1:39:57 PM
+Request path: /
+Logged at: 1/24/2025 1:42:15 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:42:18 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:43:09 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:43:21 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:44:38 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:45:49 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:49:41 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:49:45 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:49:50 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:50:02 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:50:06 PM
+Request path: /person/index/1
+Logged at: 1/24/2025 1:50:23 PM
