@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FirstCoreWebApp/css/appstyles.aijogy2vl9.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\appstyles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aijogy2vl9"},{"Name":"integrity","Value":"sha256-wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi\u002BhpQ="},{"Name":"label","Value":"_content/FirstCoreWebApp/css/appstyles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"71"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi\u002BhpQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 05:44:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FirstCoreWebApp/css/appstyles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\appstyles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi\u002BhpQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"71"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi\u002BhpQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 05:44:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FirstCoreWebApp/js/appscript.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\appscript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6lhPmA9KZSvFhvEaxfaOIvI31\u002BCiLBdD/Hc8WW/Lt1s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226lhPmA9KZSvFhvEaxfaOIvI31\u002BCiLBdD/Hc8WW/Lt1s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 05:44:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FirstCoreWebApp/js/appscript.q70giwjd4q.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\appscript.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q70giwjd4q"},{"Name":"integrity","Value":"sha256-6lhPmA9KZSvFhvEaxfaOIvI31\u002BCiLBdD/Hc8WW/Lt1s="},{"Name":"label","Value":"_content/FirstCoreWebApp/js/appscript.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226lhPmA9KZSvFhvEaxfaOIvI31\u002BCiLBdD/Hc8WW/Lt1s=\u0022"},{"Name":"Last-Modified","Value":"Mon, 27 Jan 2025 05:44:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

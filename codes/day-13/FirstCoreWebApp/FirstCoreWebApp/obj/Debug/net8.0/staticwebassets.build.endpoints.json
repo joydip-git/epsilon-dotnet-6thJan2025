@@ -1,5 +1,170 @@
 {
   "Version": 1,
   "ManifestType": "Build",
-  "Endpoints": []
+  "Endpoints": [
+    {
+      "Route": "css/appstyles.aijogy2vl9.css",
+      "AssetFile": "css/appstyles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aijogy2vl9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ="
+        },
+        {
+          "Name": "label",
+          "Value": "css/appstyles.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/appstyles.css",
+      "AssetFile": "css/appstyles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/appscript.js",
+      "AssetFile": "js/appscript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/appscript.q70giwjd4q.js",
+      "AssetFile": "js/appscript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q70giwjd4q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s="
+        },
+        {
+          "Name": "label",
+          "Value": "js/appscript.js"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\css\\appstyles.css",
+      "PackagePath": "staticwebassets\\css\\appstyles.css"
+    },
+    {
+      "Id": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\js\\appscript.js",
+      "PackagePath": "staticwebassets\\js\\appscript.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstCoreWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FirstCoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FirstCoreWebApp.props",
+      "PackagePath": "build\\FirstCoreWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FirstCoreWebApp.props",
+      "PackagePath": "buildMultiTargeting\\FirstCoreWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FirstCoreWebApp.props",
+      "PackagePath": "buildTransitive\\FirstCoreWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

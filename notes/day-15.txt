@@ -1,0 +1,200 @@
+ASP.NET Core
+	1. MVC web app
+	2. Razor page web app
+	3. Blazor web app
+	4. SignalR web app
+	5. gRpc web app
+	6. Web API
+
+Model-View-Controller architecture:
+------------------------------------------
+architectural pattern of building app talks about separation of concern into 3 main parts
+
+	1. Model: represents the state of application and any business logic or operations that should be performed in the web app.(any business logic or its implementation to persist the state)
+
+	2. View: responsible for presenting the content (model data) through an unser interface. The views use Razor Engine to put/embed both HTML maprkup and logic (code) using C#. if there is any logic (as minimum as possible) then that should be about presenting the content.
+
+
+	3. Controller: which handles the user interaction, works with the model and selects a view to render the content (model data). connects the model and the view. this is the initial entry point for any MVC app. since it controls which model type to work with and which view to render, hence it is known as controller.
+
+Routing in MVC:
+	1. Conventional Routing
+	2. Attribute Routing
+
+
+Razor Views in MVC webapp:
+	a. Content View
+	b. Layout view (common layout for every content view)
+	c. view start: contains the common settings for all content views, such which layout view design to apply on every content view.
+	d. view inports: contains common import lines (using statements) for every view
+
+
+
+Layout view a content view:
+---------------------------------------
+_Layout.cshtml
+<html>
+	<head>
+		 <meta charset="utf-8" />
+		 <meta name="viewport" content="width=device-width" />
+		 <title>@this.ViewBag.Title</title>
+	</head>
+
+	<body>
+		@this.RenderBody()
+	</body>
+</html>
+
+
+Content Views:
+
+Index.cshtml
+@this.ViewBag.Title = "Index"
+<h2> Welcome to ASP.NET Core MVC web app</h2>
+
+Contacts.cshtml
+<nav>
+	<div> Email: ....</div>
+	<div> Mobile: ....</div>
+</nav>
+
+content of a view file and content of _Layout.cshtml view are merged
+home/index => index.html
+	Index.cshtml content will be injected inside -> _Layout.cshtml <body> element
+	or _Layout content is applied on the Index.cshtml
+
+home/contacts => contacts.html
+	Contacts.cshtml content will be injected inside -> _Layout.cshtml <body> element
+	or _Layout content is applied on the Contacts.cshtml
+
+
+ASP.NET Core MVC web app:
+---------------------------------
+Services and Middlewares
+Models, Views and Controllers
+Model Binding
+Model validation
+Routing (attribute routing)
+Error Handling
+Filters
+Authentication
+
+ASP.NET Coew Web API (RESTful server app)
+------------------------------------------------
+RESTful API
+Services and Middlewares
+Serialization
+
+Data Access into application:
+---------------------------------------------
+ADO.NET and Entity Framework
+
+SQL Server:
+----------------
+enterprise
+professional
+express
+
+auth:
+1. windows or integrated auth
+2. sql server auth
+
+
+ADO.NET => ActiveX Data Object.NET
+
+Data Providers:
+
+sql server data provider: [System.Data.SqlClient (legacy) -> Microsoft.Data.SqlClient (latest)]
+	SqlConnection
+	SqlCommand
+	SqlParameter
+	SqlDataReader
+	....
+
+oracle data provider: [System.Data.OracleClient(legacy) -> Oracle.ManagedDataAccess (latest)]
+	OracleConnection
+	OracleCommand
+	OracleParameter
+	OracleDataReader
+	....
+
+
+OLEDB database (ex: MS-Access) data provider: [System.Data.OleDb]
+	OleDbConnection
+	OleDbCommand
+	OleDbParameter
+	OleDbDataReader
+	....
+
+ODBC data provider: (from any database, sql server, oracle, mysql etc.) [System.Data.Odbc]
+	OdbcConnection
+	OdbcCommand
+	OdbcParameter
+	OdbcDataReader
+	....
+
+
+SqlConnection 
+	sql server auth => server, database, user id, password
+	integrated auth => server, database, integrated security
+
+
+connection string:
+	sql server auth => 
+	i. "server=joydip-pc\\sqlexpress;database=epislondb;user id=sa; password=...;TrustServerCertificate=true;"
+	ii. "data source=joydip-pc\\sqlexpress;initial catalog=epislondb;uid=sa; pwd=...;TrustServerCertificate=true;"
+
+	integrated auth =>
+	i. "server=joydip-pc\\sqlexpress;database=epislondb;Intergrated Security=True"
+	ii. "data source=joydip-pc\\sqlexpress;initial catalog=epislondb;Intergrated Security=True"
+
+SqlCommand:
+	execute a select query which returns muliple records, column values etc.
+	SqlDataReader ExecuteReader()
+
+	execute a select query which returns single value
+	object ExecuteScalar()
+
+	execute a non-select query [insert, update, delete, create, alter etc.]which returns single value (number of rows affected)
+	int ExecuteNonQuery()
+		
+
+enum in C#:
+--------------------------
+
+enum ConnectionState
+{
+	Open, //0
+	Close, //1
+	Broken,//2
+	Fetching,//3
+	Executing //4
+}
+
+enum Designation
+{
+	Manager=100, //0
+	TeamLead=200, //1
+	JuniorDeveloper=300, //2
+	SEniorDeveloper=400 //3
+}
+
+class Employee
+{
+	private Designtaion designation;
+	
+	public Employee(Designation designation)
+	{
+		this.designation = designation;
+	}
+}
+
+Employee e = new(Designation.Manager);
+
+cw(Conevrt.ToInt32(Designation.Manager));
+
+
+Designation.Manager
+
+
+

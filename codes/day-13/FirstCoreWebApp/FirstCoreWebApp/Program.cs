@@ -34,7 +34,7 @@ namespace FirstCoreWebApp
             WebApplication app = builder.Build();
 
             //applying the custom RequestLoggingMiddleware on the pipline
-            app.UseRequestLogger();
+            //app.UseRequestLogger();
 
             //applying a middleware which processes a request for controller-based web app
             //name => route parameter
@@ -42,11 +42,17 @@ namespace FirstCoreWebApp
             //controller = home => HomeController
             //action = hello => Hello(string? name)
             //name/x (route-parameter) = joydip (route data)
+            //app.MapControllerRoute(
+            //    "default",
+            //    "{controller}/{action}/{x?}",
+            //    new { controller = "Home", action = "Index" }
+            //    );
+
             app.MapControllerRoute(
-                "default",
-                "{controller}/{action}/{x?}",
-                new { controller = "Home", action = "Index" }
-                );
+               "default",
+               "{controller}/{action}/{x?}"
+               );
+
 
             //endpoint
             //http://localhost:5005

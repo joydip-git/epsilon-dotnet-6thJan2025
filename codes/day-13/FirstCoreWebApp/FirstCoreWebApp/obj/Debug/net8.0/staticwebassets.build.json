@@ -1,12 +1,228 @@
 {
   "Version": 1,
-  "Hash": "GyOCJGF14v0TGSO2nRA96KPMWZwojC5RtTbKS2jRgZc=",
+  "Hash": "hApm+dBFwV8hrZgWzyZETC9UcCNa9jHbEXmZmRCgu/U=",
   "Source": "FirstCoreWebApp",
   "BasePath": "_content/FirstCoreWebApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstCoreWebApp\\wwwroot",
+      "Source": "FirstCoreWebApp",
+      "ContentRoot": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\css\\appstyles.css",
+      "SourceId": "FirstCoreWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApp",
+      "RelativePath": "css/appstyles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aijogy2vl9",
+      "Integrity": "wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\appstyles.css"
+    },
+    {
+      "Identity": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\js\\appscript.js",
+      "SourceId": "FirstCoreWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApp",
+      "RelativePath": "js/appscript#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q70giwjd4q",
+      "Integrity": "6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\appscript.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/appstyles.aijogy2vl9.css",
+      "AssetFile": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\css\\appstyles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aijogy2vl9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/appstyles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/appstyles.css",
+      "AssetFile": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\css\\appstyles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wjBWgebLIN151q6x/xbjXZLBRrlFoCNebJYQNVi+hpQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/appscript.js",
+      "AssetFile": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\js\\appscript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/appscript.q70giwjd4q.js",
+      "AssetFile": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-13\\FirstCoreWebApp\\FirstCoreWebApp\\wwwroot\\js\\appscript.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 05:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q70giwjd4q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/appscript.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6lhPmA9KZSvFhvEaxfaOIvI31+CiLBdD/Hc8WW/Lt1s="
+        }
+      ]
+    }
+  ]
 }
