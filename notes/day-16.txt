@@ -1,0 +1,14 @@
+Data Access using ADO.NET:
+	1. Connection
+	2. Command
+	3. Reader
+	4. Parameter
+	etc.
+
+Default services which are dependency injected in ASP.NET Core web app automatically without registering (As they are already registered with the service container):
+1. Logging => ILogger<T>
+2. Configuration => IConfiguration
+
+
+protocol: HTTP 
+methods: GET, POST, PUT, DELETE, PATCH, ...
