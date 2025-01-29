@@ -24,7 +24,7 @@
                     <td>@item.Description</td>
                     <td>@item.Price</td>
                     <td>
-                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        <a asp-action="Delete" asp-controller="Product" asp-route-productId="@item.Id">Delete</a>
                     </td>
                 </tr>
             }
@@ -36,14 +36,8 @@ else
     <span>No records found...</span>
 }
 @{
-    if (ViewData["DeleteMessage"] != null)
+    if (this.ViewData["DeleteMessage"] != null)
     {
         <span>@ViewData["DeleteMessage"]</span>
-    }
-}
-@{
-    if (ViewBag.Hi != null)
-    {
-        <span>@ViewBag.Hi</span>
     }
 }

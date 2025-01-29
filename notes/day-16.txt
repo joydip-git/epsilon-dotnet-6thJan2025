@@ -12,3 +12,11 @@ Default services which are dependency injected in ASP.NET Core web app automatic
 
 protocol: HTTP 
 methods: GET, POST, PUT, DELETE, PATCH, ...
+
+Model Binding:
+--------------------
+mechanism, using which asp.net core can map request data to a model type and map that accoridngly.
+Ex: if any value is sent to the server through URL using route parameter or query string, then ASP.NET Core model binder actually maps that URL data to the arguments/parameters of the corresponding action.
+
+HTML Helper:
+in View class, the "Html" property returns an IHtmlHelper type instance. this html helper can create HTML controls for you and additionally bind properties of a model type to those controls. This helps the model binder service of asp.ent core web app, to generate a model type instance by assigning the values from the controls to the properties of the model instance.

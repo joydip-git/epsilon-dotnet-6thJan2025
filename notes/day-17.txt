@@ -1,0 +1,58 @@
+{
+	"Id":"",
+	"Name":"",
+	"Desc":"",
+	"Price":""
+	"X":""
+}
+
+=> new Product { Id=100, Name="", Desc="", Price=1000, Y=0}
+
+"StoredProcedures": {
+  "GET_ALL_PRODUCTS": {
+	"name":""sp_GetProducts"",
+        "parameters":[]
+  },
+  "GET_A_PRODUCT": { 
+	"name": "sp_GetProductById",
+	"parameters":[{"name":"@id"}]
+  }
+  "ADD_PRODUCT": "sp_AddProduct",
+  "UPDATE_PRODUCT": "sp_UpdateProduct",
+  "DELETE_PRODUCT": "sp_DeleteProduct"
+}
+
+EF => 2008 [2010]
+	1. Db First    => map to an existing database and tables through certain classes [the classes will be auto-generated].
+	2. Model First => create a database and tables using some database model as well as create certain classes which will be mapped to that database and those tables
+	3. Code First	=> create certain classes and then based on them tne database and the tables will be created and mapped to those classes
+
+Data Acces Technology - Part 2: Entity Framework Core
+use the Db First approach and Code First Approach
+
+NuGet packes:
+core package => Microsoft.EntityFrameworkCore
+
+sql server => Microsoft.EntityFramework.SqlServer
+oracle =>
+PostgreSql => 
+MySql => 
+
+tools => Microsoft.EntityFramework.Design and/or Microsoft.EntityFramework.Tools
+
+you can write EF related commands using EF CLI tool: ef [package: Microsoft.EntityFramework.Design]
+you can write EF related commands using NuGet Package Manager Console [package: Microsoft.EntityFramework.Tools]
+
+
+Mapping an entity/model to a table
+	a. using annotation/attributes in the model class itself
+	b. using Fluent API
+
+Migration files: table info and mapping info
+objects (Product etc.)
+	=> Model/Entity information (such as: Product)
+	=> generated table schema (such as: products)
+	=> mapping between the model/entity and the table (the attributes used with the model class and its properties)
+
+generate migration files
+PM>Add-Migration InitialDbSetUp

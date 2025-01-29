@@ -18,7 +18,7 @@ namespace ProductManagementSystem.UserInterface.Controllers
         //GET request
         [HttpGet]
         [Route("all/{message?}")]
-        public IActionResult GetAll(string message)
+        public IActionResult GetAll(string? message)
         {
             try
             {
@@ -51,7 +51,7 @@ namespace ProductManagementSystem.UserInterface.Controllers
         }
 
         //GET request
-        [HttpGet, ActionName("add")]
+        [HttpGet]
         [Route("add")]
         public IActionResult Add()
         {
@@ -135,8 +135,8 @@ namespace ProductManagementSystem.UserInterface.Controllers
         }
 
         [HttpGet]
-        [Route("delete/{id}")]
-        public IActionResult Delete([FromRoute] int id)
+        [Route("delete/{productId}")]
+        public IActionResult Delete([FromRoute(Name = "productId")] int id)
         {
             try
             {
@@ -144,17 +144,13 @@ namespace ProductManagementSystem.UserInterface.Controllers
                 var result = _productRepository.Delete(id);
                 if (result > 0)
                 {
-                    //ViewData["DeleteMessage"] = "deleted successfully";
-                    ViewBag.Hi = "Hi...";
-                    return RedirectToAction("GetAll", new { message = "deleted successfully" });
+                    return this.RedirectToAction("GetAll", new { message = "deleted successfully" });
                 }
                 else
-                    //ViewData["DeleteMessage"] = "could not delete";
                     return RedirectToAction("GetAll", new { message = "could not delete" });
             }
             catch (Exception ex)
             {
-                //ViewData["DeleteMessage"] =ex.ToString() ;
                 return RedirectToAction("GetAll", new { message = ex.ToString() });
             }
 
