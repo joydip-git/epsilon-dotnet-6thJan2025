@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "SampleWebApiFromEmtyApp.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/Home/welcome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SampleWebApiFromEmtyApp.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/Home/welcome",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "SampleWebApiFromEmtyApp.Models.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SampleWebApiFromEmtyApp.Models.Person",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SampleWebApiFromEmtyApp.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/Home/welcome/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

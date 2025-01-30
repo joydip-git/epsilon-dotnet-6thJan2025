@@ -1,0 +1,12 @@
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\bin\Debug\net8.0\CalculationServiceLibrary.deps.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\bin\Debug\net8.0\CalculationServiceLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\bin\Debug\net8.0\CalculationServiceLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.AssemblyInfoInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.AssemblyInfo.cs
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.csproj.CoreCompileInputs.cache
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.sourcelink.json
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\refint\CalculationServiceLibrary.dll
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\CalculationServiceLibrary.pdb
+D:\training\epsilon-dotnet-6thJan2025\codes\day-18\CalculationServiceLibrary\CalculationServiceLibrary\obj\Debug\net8.0\ref\CalculationServiceLibrary.dll

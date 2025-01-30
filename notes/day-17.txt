@@ -56,3 +56,6 @@ objects (Product etc.)
 
 generate migration files
 PM>Add-Migration InitialDbSetUp
+
+update/generate database and tables:
+PM>Update-Database

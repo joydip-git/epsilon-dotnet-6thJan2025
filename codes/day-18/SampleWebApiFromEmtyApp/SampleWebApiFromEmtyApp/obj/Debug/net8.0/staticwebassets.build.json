@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QhRzqMigL6453PKzrJs+v3jKCwtFPjlw7uFI329FWdQ=",
+  "Source": "SampleWebApiFromEmtyApp",
+  "BasePath": "_content/SampleWebApiFromEmtyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

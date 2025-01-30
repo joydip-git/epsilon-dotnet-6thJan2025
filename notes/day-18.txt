@@ -1,0 +1,117 @@
+web api
+entity framework with fluent api
+model validation
+connecting the asp.net core web api and the asp.net core mvc web app
+
+EF Core:
+	map model classes/entities to the tables
+	a. attributes with the model class and its properties
+	b. fluent api
+
+
+ASP.NET Core Razor pages web app
+ASP.NET Core Blazor web app
+ASP.NET Core SignalR web app
+ASP.NET Core gRpc web app
+
+ASP.NET Core MVC web app [Model-View-Controller]
+ASP.NET Core Web API => RESTful web application
+
+//razor app:
+//builder.Services.AddRazorPages();
+
+//blazor app
+//builder.Services.AddBlazor();
+
+//mvc web app with core facilities
+//builder.Services.AddControllersWithViews();
+
+//mvc web app with all mvc facilities
+//builder.Services.AddMvc();
+
+//web api (with just controllers no views)
+builder.Services.AddControllers();
+
+
+REST => REpresentational State Transfer
+
+a web standard for two applications to communicate in distributed environment.
+helps you create a web service which si a collection of protocols and standards used for exchanging data between application or system.
+
+an web service created using REST architecture is known as RESTful web service.
+
+a REST server/REST web service app simply provides access to its resources and REST client accesses and modifies those resources.
+Each resource is identified through an URI. 
+REST to communicate uses open standards (XML, JSON format), HTTP protocol.
+
+REST application relies on HTTP protocol and its methods.
+Since it depends on HTTP protocol, there is no way the state of the data (Sent by client) are possible to persist over the calls.
+
+HTTP methods:
+GET: provides read-only access to a resource
+POST: provides access to create a new resource
+PUT: provides access to update an existing resource
+DELETE:provides access to delete/remove an existing resource
+
+REST app send the response to client as well as receives the request from the client via JSON format by default, which not only helps you to share the data as well as pass information about the data.
+{ "name":"joydip", "id":1, "salary":100}
+
+REST application does not store any information about the client who sent the request. this way the client and the server app are loosely coupled.
+
+before .NET Framework 3.0 (2007)
+Service to be accessed via web
+	1. Web Service (internet)		
+	2. Remote Service (intranet)
+	3. Component Service (COM +.NET framework)
+
+.NET Framework 3.0 (2007)
+	Windows Communication Foundation (unified platform to create any of the above 3 types of service)
+
+.NET Framework 2010 => MVC 
+	ASP.NET MVC Web API (web service)
+
+routing feature of MVC => human readable, understandable and it is not resource based access
+
+.NET (.Net Core)
+	ASP.NET Core Web API (web service)
+
+//service type
+class Calculator
+{	
+	//service
+	public int Add(int a, int b){}
+}
+
+
+ASP.NET Core Web API Application:
+------------------------------------------
+resource => Product data
+
+APIs => 
+	URI: product/add [product data via request body]
+	a. Add (POST) => add a new product data in the database table, for a given product data
+
+	URI: product/update/{id} [product data via request body]
+	b. Update (PUT) => updates an existing product data, for a given product id and the updated product data, in the database table
+
+	URI: product/delete/{id}
+	c. Delete (DELETE) => deletes an existing product data, for a given product id, from the database table
+
+	URI: product/all
+	d. GetAll (GET) => returns an existing set of products by fetching that data from the database table
+
+	URI: product/get/{id}
+	d. Get (GET) => returns an existing product for a given product id by fetching that data from the database table
+
+
+CQRS pattern => Command Query Responsibilty Segregation Pattern
+Command Query Responsibility Segregation (CQRS) is a software design pattern that separates read and write operations in an application
+
+Command side: Handles create, update, and delete requests. 
+Query side: Runs queries using read replicas. 
+Data models: The application is split into two data models, one for commands and one for queries. 
+
+use different models/entities for command (insertion, update, delete etc.) and query (select) operation
+
+
+

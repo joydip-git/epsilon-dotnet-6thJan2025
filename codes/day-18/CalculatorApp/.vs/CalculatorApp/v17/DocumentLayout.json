@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-18\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E08694A-B0D2-47A1-A61A-1E6E3526801B}|CalculatorApp\\CalculatorApp.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-18\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E08694A-B0D2-47A1-A61A-1E6E3526801B}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-18\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-18\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "CalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:47:54.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

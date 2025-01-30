@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hVVvgnw/e6s=",
+  "dgSpecHash": "HBAFPp5/xWo=",
   "success": true,
-  "projectFilePath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-17\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj",
+  "projectFilePath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-18\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joydip\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\joydip\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
