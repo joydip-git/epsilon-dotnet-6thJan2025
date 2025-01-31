@@ -21,7 +21,7 @@ namespace ProductManagementSystem.APIService.Controllers
                 var status = repository.RegisterUser(user);
                 return status ? CreatedAtAction(nameof(Register), "successfully registered") : BadRequest("user could not be registered..or already exists");
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return Problem(detail: ex.ToString(), statusCode: 500);
             }
