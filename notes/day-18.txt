@@ -114,4 +114,7 @@ Data models: The application is split into two data models, one for commands and
 use different models/entities for command (insertion, update, delete etc.) and query (select) operation
 
 
+DbContextOptionsBuilder creates a DbContextOptions<T> and then passes it to the constructor of the DbContext class
+
+
 

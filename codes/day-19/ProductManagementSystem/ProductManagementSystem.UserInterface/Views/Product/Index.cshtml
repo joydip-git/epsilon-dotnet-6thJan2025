@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<ul>
+    <li>
+        <!--HTML helper-->
+        @this.Html.ActionLink("View Products", "GetAll")
+    </li>
+    <li>
+        <!--tag helper -->
+        <a asp-action="Add">Add Product</a>
+    </li>
+</ul>
