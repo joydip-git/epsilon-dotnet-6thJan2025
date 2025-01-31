@@ -9,6 +9,7 @@ namespace ProductManagementSystem.Repository
         public EpsilonDbContext(DbContextOptions<EpsilonDbContext> context) : base(context) { }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{
@@ -53,6 +54,28 @@ namespace ProductManagementSystem.Repository
             //    new Product() { Name = "Dell XPS 15", Description = "new 15 inch laptop from dell", Price = 125000 },
             //    new Product() { Name = "One Plus 13", Description = "new mobile from One Plus", Price = 49999 }
             //    );
+
+            EntityTypeBuilder<User> userModelBuilder = modelBuilder.Entity<User>();
+
+            userModelBuilder
+                .ToTable("users")
+                .HasKey(user => user.UserId);
+
+            userModelBuilder
+                .Property<string>(user => user.UserId)
+                .HasColumnName("userid")
+                .HasColumnType("varchar(50)")
+                .IsRequired(true);
+
+            userModelBuilder
+               .Property<string>(user => user.Password)
+               .HasColumnName("password")
+               .HasColumnType("varchar(50)")
+               .IsRequired(true);
+
+            userModelBuilder.HasData(
+                new User() { UserId = "joydip@gmail.com", Password = "Joydip@123" }
+                );
         }
     }
 }

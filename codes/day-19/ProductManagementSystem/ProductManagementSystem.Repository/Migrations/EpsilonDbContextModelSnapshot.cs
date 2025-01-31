@@ -49,6 +49,29 @@ namespace ProductManagementSystem.Repository.Migrations
 
                     b.ToTable("products", (string)null);
                 });
+
+            modelBuilder.Entity("ProductManagementSystem.Entities.User", b =>
+                {
+                    b.Property<string>("UserId")
+                        .HasColumnType("varchar(50)")
+                        .HasColumnName("userid");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("varchar(50)")
+                        .HasColumnName("password");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("users", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            UserId = "joydip@gmail.com",
+                            Password = "Joydip@123"
+                        });
+                });
 #pragma warning restore 612, 618
         }
     }

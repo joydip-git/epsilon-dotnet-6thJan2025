@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProductManagementSystem.Entities;
 using ProductManagementSystem.Repository;
@@ -11,6 +12,7 @@ namespace ProductManagementSystem.APIService.Controllers
     {
         [HttpGet]
         [Route("all")]
+        [Authorize]
         public ActionResult<IEnumerable<ProductQueryDto>> GetProducts()
         {
             try
@@ -34,6 +36,7 @@ namespace ProductManagementSystem.APIService.Controllers
 
         [HttpGet]
         [Route("get/{id}")]
+        [Authorize]
         public ActionResult<ProductQueryDto> GetProduct([FromRoute] int id)
         {
             try
@@ -50,6 +53,7 @@ namespace ProductManagementSystem.APIService.Controllers
 
         [HttpPost]
         [Route("add")]
+        [Authorize]
         public ActionResult<string> AddProduct([FromBody] ProductComandDto product)
         {
             try
@@ -65,6 +69,7 @@ namespace ProductManagementSystem.APIService.Controllers
         }
 
         [HttpPut]
+        [Authorize]
         [Route("update/{id}")]
         public ActionResult<string> UpdateProduct([FromRoute] int id, [FromBody] ProductComandDto product)
         {
@@ -81,6 +86,7 @@ namespace ProductManagementSystem.APIService.Controllers
         }
 
         [HttpDelete]
+        [Authorize]
         [Route("delete/{id}")]
         public ActionResult<string> RemoveProduct([FromRoute] int id)
         {

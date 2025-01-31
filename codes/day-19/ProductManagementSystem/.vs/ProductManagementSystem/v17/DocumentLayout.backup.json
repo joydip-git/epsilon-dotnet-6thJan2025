@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{94B013CE-3E3C-45C0-AB45-5A8F75C123A1}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B013CE-3E3C-45C0-AB45-5A8F75C123A1}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\views\\product\\productentryform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\views\\product\\productentryform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11F81750-E913-4B93-B1C8-584137144B1E}|ProductManagementSystem.APIService\\ProductManagementSystem.APIService.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F81750-E913-4B93-B1C8-584137144B1E}|ProductManagementSystem.APIService\\ProductManagementSystem.APIService.csproj|solutionrelative:productmanagementsystem.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\models\\productapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\models\\productapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\views\\product\\productupdateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\views\\product\\productupdateform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\views\\product\\productinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\views\\product\\productinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\views\\product\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\views\\product\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.userinterface\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C18638D1-35C2-4568-97C4-32D1B701FFA2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{94B013CE-3E3C-45C0-AB45-5A8F75C123A1}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\epsilon-dotnet-6thjan2025\\codes\\day-19\\productmanagementsystem\\productmanagementsystem.repository\\epsilondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B013CE-3E3C-45C0-AB45-5A8F75C123A1}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\epsilondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,118 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T06:28:54.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductAPIManager.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Models\\ProductAPIManager.cs",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Models\\ProductAPIManager.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Models\\ProductAPIManager.cs",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Models\\ProductAPIManager.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAAB8AAAAAAAAAA==",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\UserRepository.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.Repository\\UserRepository.cs",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T06:25:43.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T06:15:25.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductUpdateForm.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\ProductUpdateForm.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Views\\Product\\ProductUpdateForm.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\ProductUpdateForm.cshtml",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Views\\Product\\ProductUpdateForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T06:03:59.472Z",
+              "WhenOpened": "2025-01-31T08:22:16.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductEntryForm.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\ProductEntryForm.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Views\\Product\\ProductEntryForm.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\ProductEntryForm.cshtml",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Views\\Product\\ProductEntryForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T05:56:47.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductInfo.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\ProductInfo.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Views\\Product\\ProductInfo.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\ProductInfo.cshtml",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Views\\Product\\ProductInfo.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T05:56:18.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAll.cshtml",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\GetAll.cshtml",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Views\\Product\\GetAll.cshtml",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Views\\Product\\GetAll.cshtml",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Views\\Product\\GetAll.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T05:52:50.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Program.cs",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Program.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Program.cs",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.APIService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.APIService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.APIService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductManagementSystem.APIService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T05:51:57.872Z",
+              "WhenOpened": "2025-01-31T08:20:28.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAE0AAABmAAAAAAAAAA==",
+              "Title": "EpsilonDbContext.cs",
+              "DocumentMoniker": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.Repository\\EpsilonDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\EpsilonDbContext.cs",
+              "ToolTip": "D:\\training\\epsilon-dotnet-6thJan2025\\codes\\day-19\\ProductManagementSystem\\ProductManagementSystem.Repository\\EpsilonDbContext.cs",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\EpsilonDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T05:03:31.045Z",
+              "WhenOpened": "2025-01-31T08:20:14.291Z",
               "EditorCaption": ""
             }
           ]

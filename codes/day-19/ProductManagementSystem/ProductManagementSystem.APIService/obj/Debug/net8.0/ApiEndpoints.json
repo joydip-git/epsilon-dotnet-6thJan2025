@@ -1,5 +1,25 @@
 [
   {
+    "ContainingType": "ProductManagementSystem.APIService.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductManagementSystem.APIService.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ProductManagementSystem.APIService.Controllers.ProductAPIController",
     "Method": "AddProduct",
     "RelativePath": "api/ProductAPI/add",

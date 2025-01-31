@@ -1,0 +1,87 @@
+Authentication and Authorization using JSON Web Token
+
+Jwt: compact, self-contained and also easy to verify
+
+Jwt header: a json pbject
+	"typ": metadata about the type of token and 
+	"alg": cryptograohic algorithm used to sign the token
+
+header => 
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
+this header JSON object is encoded (Base64Url) to create the first part (eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9 => Base64Uri encode string)
+		
+algorithms: 
+	HMAC => symmetric key (uses the same secret key for signing and verification)
+	RSA =>  asymmetric key (uses one secret key [private key] to sign and another secret key [public key] for verification)
+
+Jwt payload: a json object
+	where the data is stored (information). it can contain set of "claims".
+claims: statements/information about an entity (mainly user) and additional data.
+
+"iss" (Issuer): the principal that created the token (domain name of the authentication server)
+"sub" (subject): the user id or user name that the token represents
+"aud" (audience): the recipient(s) of the token. it could be domian oname of the client.
+"exp" (expiration time): the time at which the token will expire. it is represented in Unix time (Also known as Epoch time)
+"iat" (Issued at): the time at which the token was issued, also in the Unix time.
+"jit" (JWT id): an unique identifier for the token
+"name": name of the user
+
+etc.
+
+payload => 
+{
+  "sub": "userjoydip",
+  "name": "Joydip",
+  "iat": 1516239022,
+  "iss": "http://localhost:5030",
+  "aud": "http://localhost:5171",
+  "exp": 17000001234,
+  "role":"admin",
+  "jti": "unqiueid123",
+....
+}
+
+this payload JSON object is also encoded (Base64Url) to create the second part (eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ => Base64Uri encode string)
+
+Jwt signature:
+is used to verify the token's payload part hs not been modified
+to generate this signature, the server app combines the header and payload parts with a secret key (asymmetric/symmetric) and applies the sigining algorithm specified in the header.
+if you are using HMAC SHA256 algorithm, the signtare will look like the following:
+HMACSHA256(
+  base64UrlEncode(header) + "." +
+  base64UrlEncode(payload),
+  <your-256-bit-secret>
+
+)
+
+this resulting signature is also encoded (Base64Url) to create the last part 
+(SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c => Base64Uri encode string)
+
+
+final Jwt:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+this token has to be saved by the client (once received from the server) and while sending has to send the following way:
+Add a header in the request header: "Authorization"
+the value for the header is:"Bearer <token>"
+example: "Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+
+Jwt in ASP.NET Core
+
+client, auth server and resource server
+
+types of Jwt:
+-------------------------
+
+Access token: short-lived token (15 mins to 1 hour). whenever expires, the client has to login again to get a fresh token.
+
+Refresh token: this is long-lived token. refreshes the access token whenever it expires. it allows the client to continue without logging in again and again.
+
+
+package:
+Microsoft.AspNetCore.Authentication.JwtBearer => ASP.NET Core middleware that enables an application to receive an OpenID Connect bearer token.
+use 9.*.* version if you are using .NET 9
+use 8.*.* version if you are using .NET 8
