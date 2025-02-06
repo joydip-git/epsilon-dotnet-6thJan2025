@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProductManagementSystem.APIService.Models;
 using ProductManagementSystem.Entities;
@@ -37,7 +36,8 @@ namespace ProductManagementSystem.APIService.Controllers
                 var status = repository.AuthenticateUser(user);
                 if (status)
                 {
-                    return Ok(new { token = tokenManager.GenerateJSONWebToken(user) });
+                    var tokenValue = tokenManager.GenerateJSONWebToken(user);
+                    return Ok(new { token = tokenValue });
                 }
                 else
                     return BadRequest("user is invalid");

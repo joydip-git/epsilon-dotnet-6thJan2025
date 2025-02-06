@@ -5,9 +5,16 @@
 @using (this.Html.BeginForm("Add", "Product", FormMethod.Post))
 {
     <div>
+        @this.Html.ValidationSummary(false)
+    </div>
+    <br />
+    <div>
         @this.Html.LabelFor(p => p.Name)
         &nbsp;&nbsp;
         @this.Html.TextBoxFor(p => p.Name)
+    </div>
+    <div>
+        @this.Html.ValidationMessageFor(p => p.Name)
     </div>
     <br />
     <div>
@@ -21,6 +28,9 @@
         &nbsp;&nbsp;
         @this.Html.TextBoxFor(p => p.Price)
     </div>
+    <div>
+        @this.Html.ValidationMessageFor(p => p.Price)
+    </div>
     <br />
     <div>
         <input type="submit" value="Add" />
@@ -28,7 +38,8 @@
 }
 
 @{
-    if (this.ViewData["message"] != null){
+    if (this.ViewData["message"] != null)
+    {
         <span>@this.ViewData["message"]</span>
     }
 }

@@ -77,14 +77,22 @@ namespace ProductManagementSystem.UserInterface.Controllers
         {
             try
             {
-                var status = await manager.SendRequestToAddProduct(product);
-                if (status)
+                if (ModelState.IsValid)
                 {
-                    return RedirectToAction("GetAll", new { routedata = "Product Added Successfully" });
+                    var status = await manager.SendRequestToAddProduct(product);
+                    if (status)
+                    {
+                        return RedirectToAction("GetAll", new { routedata = "Product Added Successfully" });
+                    }
+                    else
+                    {
+                        this.ViewData["message"] = "Product Could not be added";
+                        return View("ProductEntryForm");
+                    }
                 }
                 else
                 {
-                    this.ViewData["message"] = "Product Could not be added";
+                    this.ViewData["message"] = "Product Validation failed";
                     return View("ProductEntryForm");
                 }
             }

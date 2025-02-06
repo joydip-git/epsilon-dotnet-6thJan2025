@@ -40,8 +40,11 @@ namespace ProductManagementSystem.UserInterface.Models
                 {
                     var content = await response.Content.ReadAsStringAsync();
                     var jsonDoc = JsonDocument.Parse(content);
-                    bool status = jsonDoc.RootElement.TryGetProperty("token", out var tokenElement);
-                    return status ? tokenElement.GetString() : "";
+                    
+                    JsonElement tokenElementObject;
+                    bool status = jsonDoc.RootElement.TryGetProperty("token", out tokenElementObject);
+
+                    return status ? tokenElementObject.GetString() : "";
                 }
                 else
                     return null;

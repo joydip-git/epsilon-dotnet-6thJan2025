@@ -1,0 +1,30 @@
+Jwt token types ASP.NET Core:
+--------------------------------------------
+JwtSecurityTokenHandler => handles the Jwt based security, such as creating a Jwt
+JwtSecurtiToken => issuer, audience, expires, claims, signing credentials
+SigningCredentials => to generate a credential for signing the jwt token
+SymmetricSecurityKey/AsymmetricSecurityKey => to generate symmetric key or asymmetric keys
+Claim => to create a claim -> type of claim and the value
+
+
+
+ASP.NET Core MVC -> client app
+will respond to the request from any user by fetching data from the backend ASP.NET Core RESTful API server app and then sending the data via view (web page -> HTML)
+
+Auth controller -> handle user authentication
+product controller -> returning views related to product resource
+
+to send the requests to backend RESTful API server for
+	- authentiaction and registration -> UserApiManager
+	- product resource access -> ProductApiManager
+
+route gurad: client side routes are guarded from un-authorized access
+------------------------------------------------------------------------------
+all the product routes, except the Home route, are guradrd -> without authentcation you can't access those routes
+redirection 
+	-> when logged in successfully, the application will redirect you to the Home action route of the Product controller (this route anyway is not guarded)
+	-> if you have clicked any other priduct related link (Add Product, Products etc.), then sine those routes are guarded, you will be automatically redirected to the Login view and after successful login, you will be again redirected back to the originally requested URL, NOT to home url.
+
+
+Filters
+Model Validation
